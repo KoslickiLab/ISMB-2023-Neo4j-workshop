@@ -1,0 +1,3636 @@
+Lepirudin,drug2gene,F2
+Cetuximab,drug2gene,EGFR
+Denileukin diftitox,drug2gene,IL2RA
+Denileukin diftitox,drug2gene,IL2RB
+Etanercept,drug2gene,TNF
+Etanercept,drug2gene,LTA
+Bivalirudin,drug2gene,F2
+Leuprolide,drug2gene,GNRHR
+Peginterferon alfa-2a,drug2gene,IFNAR2
+Peginterferon alfa-2a,drug2gene,IFNAR1
+Alteplase,drug2gene,PLG
+Alteplase,drug2gene,FGA
+Alteplase,drug2gene,FGG
+Sermorelin,drug2gene,GHRHR
+Interferon alfa-n1,drug2gene,IFNAR1
+Interferon alfa-n1,drug2gene,IFNAR2
+Darbepoetin alfa,drug2gene,EPOR
+Urokinase,drug2gene,PLG
+Urokinase,drug2gene,PLAUR
+Urokinase,drug2gene,SERPINE1
+Urokinase,drug2gene,SERPINB2
+Goserelin,drug2gene,LHCGR
+Goserelin,drug2gene,GNRHR
+Reteplase,drug2gene,PLG
+Reteplase,drug2gene,FGA
+Erythropoietin,drug2gene,EPOR
+Interferon alfa-n3,drug2gene,IFNAR1
+Interferon alfa-n3,drug2gene,IFNAR2
+Pegfilgrastim,drug2gene,CSF3R
+Sargramostim,drug2gene,CSF2RA
+Sargramostim,drug2gene,IL3RA
+Sargramostim,drug2gene,CSF2RB
+Peginterferon alfa-2b,drug2gene,IFNAR1
+Peginterferon alfa-2b,drug2gene,IFNAR2
+Thyrotropin alfa,drug2gene,TSHR
+Antihemophilic factor, human recombinant,drug2gene,F10
+Antihemophilic factor, human recombinant,drug2gene,F9
+Antihemophilic factor, human recombinant,drug2gene,VWF
+Anakinra,drug2gene,IL1R1
+Human immunoglobulin G,drug2gene,FCGR1A
+Human immunoglobulin G,drug2gene,FCGR1B
+Human immunoglobulin G,drug2gene,FCGR2A
+Human immunoglobulin G,drug2gene,FCGR2B
+Human immunoglobulin G,drug2gene,FCGR2C
+Human immunoglobulin G,drug2gene,FCGR3A
+Human immunoglobulin G,drug2gene,FCGR3B
+Human immunoglobulin G,drug2gene,C3
+Human immunoglobulin G,drug2gene,C4A
+Human immunoglobulin G,drug2gene,C4B
+Human immunoglobulin G,drug2gene,C5
+Anistreplase,drug2gene,PLG
+Anistreplase,drug2gene,FGA
+Insulin human,drug2gene,INSR
+Tenecteplase,drug2gene,PLG
+Tenecteplase,drug2gene,FGA
+Menotropins,drug2gene,FSHR
+Menotropins,drug2gene,LHCGR
+Interferon gamma-1b,drug2gene,IFNGR1
+Interferon gamma-1b,drug2gene,IFNGR2
+Interferon alfa-2a,drug2gene,IFNAR1
+Interferon alfa-2a,drug2gene,IFNAR2
+Desmopressin,drug2gene,AVPR2
+Desmopressin,drug2gene,AVPR1A
+Desmopressin,drug2gene,AVPR1B
+Oprelvekin,drug2gene,IL11RA
+Palifermin,drug2gene,FGFR2
+Glucagon,drug2gene,GCGR
+Aldesleukin,drug2gene,IL2RB
+Aldesleukin,drug2gene,IL2RA
+Aldesleukin,drug2gene,IL2RG
+Botulinum toxin type B,drug2gene,VAMP2
+Botulinum toxin type B,drug2gene,VAMP1
+Botulinum toxin type B,drug2gene,SYT2
+Omalizumab,drug2gene,FCER1A
+Omalizumab,drug2gene,MS4A2
+Lutropin alfa,drug2gene,LHCGR
+Lyme disease vaccine (recombinant OspA),drug2gene,TLR2
+Insulin lispro,drug2gene,INSR
+Insulin glargine,drug2gene,INSR
+Collagenase clostridium histolyticum,drug2gene,COL1A1
+Collagenase clostridium histolyticum,drug2gene,COL2A1
+Collagenase clostridium histolyticum,drug2gene,COL3A1
+Cetrorelix,drug2gene,GNRHR
+Adalimumab,drug2gene,TNF
+Somatotropin,drug2gene,GHR
+Somatotropin,drug2gene,PRLR
+Abciximab,drug2gene,ITGB3
+Abciximab,drug2gene,ITGA2B
+Drotrecogin alfa,drug2gene,F8
+Drotrecogin alfa,drug2gene,F5
+Gemtuzumab ozogamicin,drug2gene,CD33
+Alpha-1-proteinase inhibitor,drug2gene,ELANE
+Interferon beta-1a,drug2gene,IFNAR1
+Interferon beta-1a,drug2gene,IFNAR2
+Eptifibatide,drug2gene,ITGB3
+Infliximab,drug2gene,TNF
+Follitropin,drug2gene,FSHR
+Vasopressin,drug2gene,AVPR2
+Vasopressin,drug2gene,AVPR1A
+Vasopressin,drug2gene,AVPR1B
+Vasopressin,drug2gene,OXTR
+Interferon beta-1b,drug2gene,IFNAR1
+Interferon beta-1b,drug2gene,IFNAR2
+Interferon alfacon-1,drug2gene,IFNAR1
+Interferon alfacon-1,drug2gene,IFNAR2
+Insulin pork,drug2gene,INSR
+Trastuzumab,drug2gene,ERBB2
+Rituximab,drug2gene,MS4A1
+Basiliximab,drug2gene,IL2RA
+Muromonab,drug2gene,CD3D
+Muromonab,drug2gene,CD3E
+Muromonab,drug2gene,CD3G
+Muromonab,drug2gene,CD247
+Ibritumomab tiuxetan,drug2gene,MS4A1
+Tositumomab,drug2gene,MS4A1
+Pegvisomant,drug2gene,GHR
+Botulinum toxin type A,drug2gene,SNAP25
+Streptokinase,drug2gene,PLG
+Alemtuzumab,drug2gene,CD52
+Capromab pendetide,drug2gene,FOLH1
+Cyclosporine,drug2gene,CAMLG
+Cyclosporine,drug2gene,PPP3R2
+Cyclosporine,drug2gene,PPIA
+Cyclosporine,drug2gene,PPIF
+Alefacept,drug2gene,CD2
+Felypressin,drug2gene,AVPR1A
+Urofollitropin,drug2gene,FSHR
+Efalizumab,drug2gene,ITGAX
+Efalizumab,drug2gene,ITGAL
+Choriogonadotropin alfa,drug2gene,LHCGR
+Choriogonadotropin alfa,drug2gene,FSHR
+Antithymocyte immunoglobulin (rabbit),drug2gene,MR1
+Antithymocyte immunoglobulin (rabbit),drug2gene,ITGAL
+Antithymocyte immunoglobulin (rabbit),drug2gene,CD86
+Antithymocyte immunoglobulin (rabbit),drug2gene,FCGR2B
+Antithymocyte immunoglobulin (rabbit),drug2gene,CD4
+Antithymocyte immunoglobulin (rabbit),drug2gene,ITGB1
+Antithymocyte immunoglobulin (rabbit),drug2gene,ITGAV
+Antithymocyte immunoglobulin (rabbit),drug2gene,ITGB3
+Filgrastim,drug2gene,CSF3R
+Coagulation Factor IX (Recombinant),drug2gene,F10
+Coagulation Factor IX (Recombinant),drug2gene,F11
+Coagulation Factor IX (Recombinant),drug2gene,F7
+Coagulation Factor IX (Recombinant),drug2gene,F8
+Becaplermin,drug2gene,PDGFRB
+Interferon alfa-2b,drug2gene,IFNAR2
+Interferon alfa-2b,drug2gene,IFNAR1
+Abarelix,drug2gene,GNRHR
+Oxytocin,drug2gene,OXTR
+Natalizumab,drug2gene,ITGA4
+Daclizumab,drug2gene,IL2RA
+Daclizumab,drug2gene,IL2RB
+Bevacizumab,drug2gene,VEGFA
+Cyanocobalamin,drug2gene,MTR
+Cyanocobalamin,drug2gene,MUT
+Spermine,drug2gene,SMS
+Spermine,drug2gene,SMOX
+Adenosine phosphate,drug2gene,PRKAA1
+alpha-Linolenic acid,drug2gene,FADS1
+alpha-Linolenic acid,drug2gene,FADS2
+alpha-Linolenic acid,drug2gene,TRPV1
+Calcitriol,drug2gene,VDR
+Riboflavin,drug2gene,RFK
+Riboflavin,drug2gene,BLVRB
+Calcifediol,drug2gene,VDR
+Pyridoxal,drug2gene,PDXK
+Creatine,drug2gene,CKM
+Creatine,drug2gene,CKMT1A
+Creatine,drug2gene,CKB
+Creatine,drug2gene,CKMT2
+Creatine,drug2gene,SLC6A8
+Creatine,drug2gene,GAMT
+Thiamine,drug2gene,TPK1
+Ergocalciferol,drug2gene,VDR
+Dihomo-gamma-linolenic acid,drug2gene,PTGS2
+Dihomo-gamma-linolenic acid,drug2gene,PTGS1
+Icosapent,drug2gene,PTGS2
+Icosapent,drug2gene,PTGS1
+Icosapent,drug2gene,PPARG
+Icosapent,drug2gene,PPARD
+Icosapent,drug2gene,FFAR1
+Icosapent,drug2gene,SLC8A1
+Icosapent,drug2gene,FABP7
+Pyridoxine,drug2gene,PDXK
+Cholecalciferol,drug2gene,VDR
+Menadione,drug2gene,GGCX
+Menadione,drug2gene,VKORC1
+Menadione,drug2gene,VKORC1L1
+Asparagine,drug2gene,SLC38A1
+Pravastatin,drug2gene,HMGCR
+Fluvoxamine,drug2gene,SLC6A4
+Valsartan,drug2gene,AGTR1
+Ramipril,drug2gene,ACE
+Masoprocol,drug2gene,ALOX5
+Masoprocol,drug2gene,TRPM7
+Flunisolide,drug2gene,NR3C1
+Baclofen,drug2gene,GABBR2
+Amphetamine,drug2gene,SLC18A2
+Amphetamine,drug2gene,SLC6A3
+Amphetamine,drug2gene,CARTPT
+Amphetamine,drug2gene,TAAR1
+Amphetamine,drug2gene,MAOA
+Amphetamine,drug2gene,VMAT2
+Pentagastrin,drug2gene,CCKBR
+Nicotine,drug2gene,CHRNA4
+Nicotine,drug2gene,CHRNA7
+Nicotine,drug2gene,CHRNB2
+Cevimeline,drug2gene,CHRM3
+Cevimeline,drug2gene,CHRM1
+Lorazepam,drug2gene,GABRA1
+Esmolol,drug2gene,ADRB1
+Bortezomib,drug2gene,PSMB5
+Bortezomib,drug2gene,PSMB1
+Ethchlorvynol,drug2gene,GABRA1
+Carbidopa,drug2gene,DDC
+Phentermine,drug2gene,SLC6A2
+Phentermine,drug2gene,SLC6A4
+Phentermine,drug2gene,SLC6A3
+Phentermine,drug2gene,MAOA
+Phentermine,drug2gene,MAOB
+Phentermine,drug2gene,NPY
+Indecainide,drug2gene,SCN5A
+Tramadol,drug2gene,OPRM1
+Tramadol,drug2gene,SLC6A2
+Tramadol,drug2gene,SLC6A4
+Tramadol,drug2gene,SCN2A
+Tramadol,drug2gene,GRIN1
+Tramadol,drug2gene,ADORA1
+Tramadol,drug2gene,ADRA2A
+Betaxolol,drug2gene,ADRB1
+Troglitazone,drug2gene,PPARG
+Hydroxocobalamin,drug2gene,MTR
+Hydroxocobalamin,drug2gene,MUT
+Caffeine,drug2gene,ADORA1
+Caffeine,drug2gene,ADORA2A
+Caffeine,drug2gene,ADORA2B
+Caffeine,drug2gene,ADORA3
+Caffeine,drug2gene,PDE1B
+Succinylcholine,drug2gene,CHRNA10
+Sildenafil,drug2gene,PDE5A
+Dofetilide,drug2gene,KCNH2
+Dofetilide,drug2gene,KCNK2
+Dofetilide,drug2gene,KCNJ12
+Pyrimethamine,drug2gene,DHFR
+Reserpine,drug2gene,SLC18A2
+Ticlopidine,drug2gene,P2RY12
+Adapalene,drug2gene,RARB
+Adapalene,drug2gene,RARG
+Adapalene,drug2gene,RXRB
+Adapalene,drug2gene,RXRG
+Adapalene,drug2gene,RXRA
+Adapalene,drug2gene,JUN
+Adapalene,drug2gene,TLR2
+Midodrine,drug2gene,ADRA1A
+Midodrine,drug2gene,ADRA1B
+Remikiren,drug2gene,REN
+Pantoprazole,drug2gene,ATP4A
+Torasemide,drug2gene,SLC12A2
+Torasemide,drug2gene,SLC12A1
+Citalopram,drug2gene,SLC6A4
+Eletriptan,drug2gene,HTR1D
+Eletriptan,drug2gene,HTR1B
+Eletriptan,drug2gene,HTR1F
+Bethanidine,drug2gene,KCNJ1
+Bethanidine,drug2gene,ADRA2A
+Oxyphenonium,drug2gene,CHRM1
+Isoetharine,drug2gene,ADRB1
+Glimepiride,drug2gene,KCNJ11
+Glimepiride,drug2gene,KCNJ1
+Glimepiride,drug2gene,ABCC8
+Diflorasone,drug2gene,NR3C1
+Guanadrel,drug2gene,SLC6A2
+Lovastatin,drug2gene,HMGCR
+Enflurane,drug2gene,GABRA1
+Enflurane,drug2gene,CACNG1
+Enflurane,drug2gene,GLRA1
+Pregabalin,drug2gene,CACNA2D1
+Temazepam,drug2gene,GABRA1
+Methyclothiazide,drug2gene,SLC12A1
+Reboxetine,drug2gene,SLC6A2
+Milrinone,drug2gene,PDE3A
+Butabarbital,drug2gene,GABRA1
+Alclometasone,drug2gene,NR3C1
+Butalbital,drug2gene,GABRA2
+Butalbital,drug2gene,GABRA3
+Butalbital,drug2gene,GABRA4
+Butalbital,drug2gene,GABRA5
+Butalbital,drug2gene,GABRA6
+Butalbital,drug2gene,GABRA1
+Cladribine,drug2gene,RRM1
+Cladribine,drug2gene,RRM2
+Cladribine,drug2gene,RRM2B
+Cladribine,drug2gene,POLA1
+Cladribine,drug2gene,POLE
+Cladribine,drug2gene,POLE2
+Cladribine,drug2gene,POLE3
+Cladribine,drug2gene,POLE4
+Cladribine,drug2gene,PNP
+Mesalazine,drug2gene,PTGS2
+Mesalazine,drug2gene,PTGS1
+Mesalazine,drug2gene,ALOX5
+Mesalazine,drug2gene,PPARG
+Benzatropine,drug2gene,CHRM1
+Benzatropine,drug2gene,SLC6A3
+Ziprasidone,drug2gene,DRD2
+Ziprasidone,drug2gene,HTR2A
+Ziprasidone,drug2gene,HTR1A
+Ziprasidone,drug2gene,HTR1D
+Ziprasidone,drug2gene,HTR2C
+Methysergide,drug2gene,HTR2B
+Methysergide,drug2gene,HTR2C
+Methysergide,drug2gene,HTR2A
+Methysergide,drug2gene,HTR1A
+Methysergide,drug2gene,HTR7
+Cabergoline,drug2gene,DRD2
+Phenytoin,drug2gene,SCN5A
+Phenytoin,drug2gene,SCN1A
+Phenytoin,drug2gene,KCNH2
+Phenytoin,drug2gene,CACNA1C
+Phenytoin,drug2gene,SCN2A
+Phenytoin,drug2gene,SCN8A
+Medrysone,drug2gene,NR3C1
+Diethylstilbestrol,drug2gene,ESR2
+Diethylstilbestrol,drug2gene,ESR1
+Diethylstilbestrol,drug2gene,ESRRG
+Clotrimazole,drug2gene,KCNN4
+Anagrelide,drug2gene,PDE3A
+Carmustine,drug2gene,GSR
+Metoprolol,drug2gene,ADRB1
+Dicoumarol,drug2gene,VKORC1
+Ropinirole,drug2gene,DRD3
+Ropinirole,drug2gene,DRD2
+Chlorotrianisene,drug2gene,ESR1
+Isradipine,drug2gene,CACNA1C
+Isradipine,drug2gene,CACNA2D1
+Isradipine,drug2gene,CACNB2
+Isradipine,drug2gene,CACNA1H
+Isradipine,drug2gene,CACNA2D2
+Isradipine,drug2gene,CACNA1D
+Isradipine,drug2gene,CACNA1S
+Betazole,drug2gene,HRH2
+Topiramate,drug2gene,GABRA1
+Topiramate,drug2gene,SCN1A
+Topiramate,drug2gene,GRIK1
+Topiramate,drug2gene,CA2
+Topiramate,drug2gene,CA4
+Topiramate,drug2gene,CACNA1C
+Olmesartan,drug2gene,AGTR1
+Amsacrine,drug2gene,TOP2A
+Theophylline,drug2gene,ADORA1
+Theophylline,drug2gene,ADORA2A
+Theophylline,drug2gene,ADORA2B
+Theophylline,drug2gene,PDE4B
+Theophylline,drug2gene,PDE5A
+Theophylline,drug2gene,PDE4A
+Theophylline,drug2gene,PDE3A
+Theophylline,drug2gene,HDAC2
+Argatroban,drug2gene,F2
+Liothyronine,drug2gene,THRA
+Liothyronine,drug2gene,THRB
+Disopyramide,drug2gene,SCN5A
+Lidocaine,drug2gene,SCN10A
+Lidocaine,drug2gene,SCN9A
+Lidocaine,drug2gene,SCN5A
+Pamidronic acid,drug2gene,FDPS
+Clemastine,drug2gene,HRH1
+Acarbose,drug2gene,MGAM
+Acarbose,drug2gene,SI
+Acarbose,drug2gene,AMY2A
+Venlafaxine,drug2gene,SLC6A4
+Venlafaxine,drug2gene,SLC6A2
+Conjugated estrogens,drug2gene,ESR2
+Conjugated estrogens,drug2gene,ESR1
+Travoprost,drug2gene,PTGFR
+Amcinonide,drug2gene,NR3C1
+Atomoxetine,drug2gene,SLC6A2
+Etomidate,drug2gene,GABRA1
+Etomidate,drug2gene,ADRA2B
+Raltitrexed,drug2gene,TYMS
+Etonogestrel,drug2gene,PGR
+Morphine,drug2gene,OPRM1
+Morphine,drug2gene,OPRK1
+Morphine,drug2gene,OPRD1
+Ropivacaine,drug2gene,SCN10A
+Bupivacaine,drug2gene,SCN10A
+Dapiprazole,drug2gene,ADRA1A
+Dapiprazole,drug2gene,ADRA1D
+Dapiprazole,drug2gene,ADRA1B
+Tranexamic acid,drug2gene,PLG
+Desogestrel,drug2gene,PGR
+Desogestrel,drug2gene,ESR1
+Talbutal,drug2gene,GABRA2
+Talbutal,drug2gene,GABRA3
+Talbutal,drug2gene,GABRA4
+Talbutal,drug2gene,GABRA5
+Talbutal,drug2gene,GABRA6
+Talbutal,drug2gene,GABRA1
+Bexarotene,drug2gene,RXRA
+Bexarotene,drug2gene,RXRB
+Bexarotene,drug2gene,RXRG
+Ibutilide,drug2gene,CACNA1C
+Ibutilide,drug2gene,CACNB1
+Ibutilide,drug2gene,KCNH2
+Vindesine,drug2gene,TUBB1
+Chlorthalidone,drug2gene,CA1
+Chlorthalidone,drug2gene,SLC12A1
+Ethoxzolamide,drug2gene,CA2
+Ethoxzolamide,drug2gene,CA4
+Ethoxzolamide,drug2gene,CA7
+Ethoxzolamide,drug2gene,CA1
+Pentobarbital,drug2gene,GABRA1
+Pentobarbital,drug2gene,GABRA2
+Pentobarbital,drug2gene,GABRA3
+Pentobarbital,drug2gene,GABRA4
+Pentobarbital,drug2gene,GABRA5
+Pentobarbital,drug2gene,GABRA6
+Valproic acid,drug2gene,HDAC9
+Zolmitriptan,drug2gene,HTR1B
+Zolmitriptan,drug2gene,HTR1D
+Zolmitriptan,drug2gene,HTR1F
+Acetaminophen,drug2gene,PTGS2
+Acetaminophen,drug2gene,PTGS1
+Gefitinib,drug2gene,EGFR
+Codeine,drug2gene,OPRM1
+Codeine,drug2gene,OPRK1
+Codeine,drug2gene,OPRD1
+Dihydroergotamine,drug2gene,HTR1B
+Dihydroergotamine,drug2gene,HTR1D
+Dihydroergotamine,drug2gene,HTR1F
+Amitriptyline,drug2gene,SLC6A2
+Amitriptyline,drug2gene,SLC6A4
+Amitriptyline,drug2gene,HTR2A
+Floxuridine,drug2gene,TYMS
+Tolcapone,drug2gene,COMT
+Fluorometholone,drug2gene,NR3C1
+Nitroprusside,drug2gene,NPR1
+Hydromorphone,drug2gene,OPRM1
+Hydromorphone,drug2gene,OPRD1
+Hydromorphone,drug2gene,OPRK1
+Indomethacin,drug2gene,PTGS2
+Indomethacin,drug2gene,PLA2G2A
+Indomethacin,drug2gene,PTGS1
+Metformin,drug2gene,ETFDH
+Metformin,drug2gene,PRKAB1
+Ipratropium,drug2gene,CHRM3
+Ipratropium,drug2gene,CHRM1
+Ipratropium,drug2gene,CHRM2
+Methadone,drug2gene,OPRM1
+Methadone,drug2gene,GRIN1
+Methadone,drug2gene,OPRD1
+Methadone,drug2gene,CHRNA7
+Olanzapine,drug2gene,HTR2A
+Olanzapine,drug2gene,DRD2
+Atenolol,drug2gene,ADRB1
+Pimecrolimus,drug2gene,MTOR
+Omeprazole,drug2gene,ATP4A
+Metixene,drug2gene,CHRM1
+Cetirizine,drug2gene,HRH1
+Terfenadine,drug2gene,HRH1
+Diltiazem,drug2gene,CACNA1C
+Diltiazem,drug2gene,CACNG1
+Protriptyline,drug2gene,SLC6A2
+Protriptyline,drug2gene,SLC6A4
+Alfuzosin,drug2gene,ADRA1A
+Alfuzosin,drug2gene,ADRA1B
+Alfuzosin,drug2gene,ADRA1D
+Trimethadione,drug2gene,CACNA1G
+Nitisinone,drug2gene,HPD
+Clobazam,drug2gene,GABRA1
+Minoxidil,drug2gene,KCNJ1
+Megestrol acetate,drug2gene,PGR
+Methylergometrine,drug2gene,DRD1
+Buclizine,drug2gene,HRH1
+Buclizine,drug2gene,CHRM1
+Chlorzoxazone,drug2gene,KCNMA1
+Aminoglutethimide,drug2gene,CYP11A1
+Aminoglutethimide,drug2gene,CYP19A1
+Sapropterin,drug2gene,PAH
+Sapropterin,drug2gene,NOS3
+Sapropterin,drug2gene,TH
+Sapropterin,drug2gene,TPH1
+Vinorelbine,drug2gene,TUBB
+Clozapine,drug2gene,DRD2
+Clozapine,drug2gene,HTR2A
+Sucralfate,drug2gene,PGA5
+Sucralfate,drug2gene,FGF2
+Sucralfate,drug2gene,EGF
+Doxylamine,drug2gene,HRH1
+Levonorgestrel,drug2gene,PGR
+Levonorgestrel,drug2gene,SRD5A1
+Levonorgestrel,drug2gene,ESR1
+Norepinephrine,drug2gene,ADRA1A
+Norepinephrine,drug2gene,ADRA1B
+Norepinephrine,drug2gene,ADRA1D
+Norepinephrine,drug2gene,ADRA2A
+Norepinephrine,drug2gene,ADRA2B
+Norepinephrine,drug2gene,ADRA2C
+Norepinephrine,drug2gene,ADRB1
+Norepinephrine,drug2gene,ADRB2
+Norepinephrine,drug2gene,ADRB3
+Mirtazapine,drug2gene,HTR2A
+Mirtazapine,drug2gene,null
+Mirtazapine,drug2gene,ADRA2A
+Meprobamate,drug2gene,GABRA1
+Meprobamate,drug2gene,GABRA2
+Meprobamate,drug2gene,GABRA3
+Meprobamate,drug2gene,GABRA4
+Meprobamate,drug2gene,GABRA5
+Meprobamate,drug2gene,GABRA6
+Timolol,drug2gene,ADRB1
+Timolol,drug2gene,ADRB2
+Treprostinil,drug2gene,PTGIR
+Treprostinil,drug2gene,PTGER2
+Treprostinil,drug2gene,PTGDR
+Treprostinil,drug2gene,PPARD
+Trihexyphenidyl,drug2gene,CHRM1
+Palonosetron,drug2gene,HTR3A
+Dydrogesterone,drug2gene,PGR
+Mexiletine,drug2gene,SCN5A
+Dexrazoxane,drug2gene,TOP2A
+Amlodipine,drug2gene,CACNA1C
+Amlodipine,drug2gene,CACNA1I
+Tacrine,drug2gene,BCHE
+Tacrine,drug2gene,ACHE
+Oxyphencyclimine,drug2gene,CHRM3
+Oxyphencyclimine,drug2gene,CHRM1
+Oxyphencyclimine,drug2gene,CHRM2
+Triamterene,drug2gene,SCNN1G
+Triamterene,drug2gene,SCNN1A
+Triamterene,drug2gene,SCNN1B
+Valrubicin,drug2gene,TOP2A
+Procyclidine,drug2gene,CHRM3
+Procyclidine,drug2gene,CHRM1
+Procyclidine,drug2gene,CHRM2
+Procyclidine,drug2gene,CHRM4
+Phenylephrine,drug2gene,ADRA1A
+Phenylephrine,drug2gene,ADRA1B
+Phenylephrine,drug2gene,ADRA1D
+Carbimazole,drug2gene,TPO
+Digoxin,drug2gene,ATP1A1
+Sulpiride,drug2gene,DRD2
+Profenamine,drug2gene,CHRM1
+Profenamine,drug2gene,GRIN3A
+Nimodipine,drug2gene,CACNA1C
+Nimodipine,drug2gene,CACNA1D
+Nimodipine,drug2gene,CACNA1F
+Nimodipine,drug2gene,CACNA1S
+Nimodipine,drug2gene,CACNB1
+Nimodipine,drug2gene,CACNB2
+Nimodipine,drug2gene,CACNB3
+Nimodipine,drug2gene,CACNB4
+Beclomethasone dipropionate,drug2gene,NR3C1
+Progesterone,drug2gene,PGR
+Progesterone,drug2gene,NR3C2
+Sorafenib,drug2gene,BRAF
+Sorafenib,drug2gene,RAF1
+Sorafenib,drug2gene,FLT4
+Sorafenib,drug2gene,KDR
+Sorafenib,drug2gene,FLT3
+Sorafenib,drug2gene,PDGFRB
+Sorafenib,drug2gene,KIT
+Sorafenib,drug2gene,FGFR1
+Sorafenib,drug2gene,RET
+Sorafenib,drug2gene,FLT1
+Zoledronic acid,drug2gene,GGPS1
+Zoledronic acid,drug2gene,FDPS
+Nisoldipine,drug2gene,CACNA1C
+Nisoldipine,drug2gene,CACNA2D1
+Nisoldipine,drug2gene,CACNB2
+Nisoldipine,drug2gene,CACNA1D
+Nisoldipine,drug2gene,CACNA1S
+Eszopiclone,drug2gene,GABRA1
+Ceruletide,drug2gene,CCKAR
+Alprazolam,drug2gene,GABRA1
+Dexbrompheniramine,drug2gene,HRH1
+Ardeparin,drug2gene,SERPINC1
+Ardeparin,drug2gene,SERPIND1
+Loxapine,drug2gene,HTR2A
+Loxapine,drug2gene,DRD2
+Remoxipride,drug2gene,DRD2
+Carbamoylcholine,drug2gene,CHRM1
+Carbamoylcholine,drug2gene,CHRM2
+Carbamoylcholine,drug2gene,CHRNA2
+Rosiglitazone,drug2gene,PPARG
+Pramipexole,drug2gene,DRD3
+Pramipexole,drug2gene,DRD2
+Pramipexole,drug2gene,DRD4
+Acetohexamide,drug2gene,KCNJ1
+Metocurine iodide,drug2gene,CHRNA2
+Secobarbital,drug2gene,GABRA2
+Secobarbital,drug2gene,GABRA3
+Secobarbital,drug2gene,GABRA4
+Secobarbital,drug2gene,GABRA5
+Secobarbital,drug2gene,GABRA6
+Secobarbital,drug2gene,GABRA1
+Miglustat,drug2gene,UGCG
+Promazine,drug2gene,DRD2
+Spironolactone,drug2gene,NR3C2
+Methylphenidate,drug2gene,SLC6A3
+Hyoscyamine,drug2gene,CHRM1
+Hyoscyamine,drug2gene,CHRM2
+Zolpidem,drug2gene,GABRA1
+Triprolidine,drug2gene,HRH1
+Carboprost tromethamine,drug2gene,PTGER1
+Lindane,drug2gene,GABRB1
+Trifluridine,drug2gene,TYMS
+Prochlorperazine,drug2gene,DRD2
+Cyproheptadine,drug2gene,HRH1
+Cyproheptadine,drug2gene,HTR2A
+Cyproheptadine,drug2gene,HTR2C
+Nitric Oxide,drug2gene,GUCY1A2
+Bendroflumethiazide,drug2gene,SLC12A3
+Bendroflumethiazide,drug2gene,KCNMA1
+Allopurinol,drug2gene,XDH
+Cerivastatin,drug2gene,HMGCR
+Gemcitabine,drug2gene,RRM1
+Betamethasone,drug2gene,NR3C1
+Teniposide,drug2gene,TOP2A
+Lansoprazole,drug2gene,ATP4A
+Dipivefrin,drug2gene,ADRA1A
+Dipivefrin,drug2gene,ADRA2A
+Dipivefrin,drug2gene,ADRB2
+Dipivefrin,drug2gene,BCHE
+Droperidol,drug2gene,ADRA1A
+Droperidol,drug2gene,DRD2
+Levothyroxine,drug2gene,ITGAV
+Levothyroxine,drug2gene,ITGB3
+Levothyroxine,drug2gene,THRA
+Levothyroxine,drug2gene,THRB
+Meperidine,drug2gene,OPRK1
+Loratadine,drug2gene,HRH1
+Prazosin,drug2gene,ADRA1A
+Prazosin,drug2gene,ADRA1B
+Prazosin,drug2gene,ADRA1D
+Imipramine,drug2gene,SLC6A2
+Imipramine,drug2gene,SLC6A4
+Acitretin,drug2gene,RXRA
+Acitretin,drug2gene,RARA
+Acitretin,drug2gene,RARB
+Acitretin,drug2gene,RARG
+Acitretin,drug2gene,RXRB
+Acitretin,drug2gene,RXRG
+Nabumetone,drug2gene,PTGS2
+Methscopolamine bromide,drug2gene,CHRM2
+Methscopolamine bromide,drug2gene,CHRM1
+Metharbital,drug2gene,GABRA2
+Metharbital,drug2gene,GABRA3
+Metharbital,drug2gene,GABRA4
+Metharbital,drug2gene,GABRA5
+Metharbital,drug2gene,GABRA6
+Metharbital,drug2gene,GABRA1
+Sodium tetradecyl sulfate,drug2gene,PROS1
+Sodium tetradecyl sulfate,drug2gene,PROC
+Ketorolac,drug2gene,PTGS2
+Picrotoxin,drug2gene,GABRR1
+Picrotoxin,drug2gene,GABRA1
+Tenoxicam,drug2gene,PTGS2
+Dronabinol,drug2gene,CNR1
+Dronabinol,drug2gene,CNR2
+Montelukast,drug2gene,CYSLTR1
+Fluoxetine,drug2gene,SLC6A4
+Hexylcaine,drug2gene,SCN5A
+Methohexital,drug2gene,GABRA1
+Chlordiazepoxide,drug2gene,GABRA1
+Duloxetine,drug2gene,SLC6A4
+Duloxetine,drug2gene,SLC6A2
+Chlorpromazine,drug2gene,DRD2
+Chlorpromazine,drug2gene,DRD1
+Chlorpromazine,drug2gene,HTR1A
+Chlorpromazine,drug2gene,HTR2A
+Chlorpromazine,drug2gene,ADRA1A
+Chlorpromazine,drug2gene,ADRA1B
+Chlorpromazine,drug2gene,HRH1
+Lenalidomide,drug2gene,CRBN
+Lenalidomide,drug2gene,TNFSF11
+Raloxifene,drug2gene,ESR1
+Raloxifene,drug2gene,ESR2
+Celecoxib,drug2gene,PTGS2
+Celecoxib,drug2gene,NEU1
+Gallamine triethiodide,drug2gene,CHRM2
+Gallamine triethiodide,drug2gene,ACHE
+Brimonidine,drug2gene,ADRA2A
+Brimonidine,drug2gene,ADRA2B
+Brimonidine,drug2gene,ADRA2C
+Nabilone,drug2gene,CNR2
+Nabilone,drug2gene,CNR1
+Sotalol,drug2gene,ADRB1
+Sotalol,drug2gene,ADRB2
+Sotalol,drug2gene,KCNH2
+Buspirone,drug2gene,HTR1A
+Buspirone,drug2gene,DRD2
+Miglitol,drug2gene,GAA
+Miglitol,drug2gene,GANAB
+Miglitol,drug2gene,GANC
+Miglitol,drug2gene,MGAM
+Fosinopril,drug2gene,ACE
+Entacapone,drug2gene,COMT
+Darifenacin,drug2gene,CHRM3
+Oxycodone,drug2gene,OPRM1
+Oxycodone,drug2gene,OPRK1
+Oxycodone,drug2gene,OPRD1
+Phenindione,drug2gene,VKORC1
+Flutamide,drug2gene,AR
+Tolmetin,drug2gene,PTGS2
+Cimetidine,drug2gene,HRH2
+Haloperidol,drug2gene,HTR2C
+Haloperidol,drug2gene,DRD2
+Levallorphan,drug2gene,OPRM1
+Tridihexethyl,drug2gene,CHRM3
+Tridihexethyl,drug2gene,CHRM1
+Tridihexethyl,drug2gene,CHRM2
+Triflupromazine,drug2gene,DRD2
+Triflupromazine,drug2gene,DRD1
+Triflupromazine,drug2gene,HTR2B
+Triflupromazine,drug2gene,CHRM1
+Triflupromazine,drug2gene,CHRM2
+Dextrothyroxine,drug2gene,THRA
+Dextrothyroxine,drug2gene,THRB
+Acetyldigitoxin,drug2gene,ATP1A1
+Aminocaproic acid,drug2gene,PLG
+Aminocaproic acid,drug2gene,PLAT
+Dextromethorphan,drug2gene,SIGMAR1
+Dextromethorphan,drug2gene,GRIN3A
+Anisotropine methylbromide,drug2gene,CHRM1
+Anisotropine methylbromide,drug2gene,CHRM2
+Anisotropine methylbromide,drug2gene,CHRM3
+Trandolapril,drug2gene,ACE
+Carteolol,drug2gene,ADRB2
+Carteolol,drug2gene,ADRB1
+Bentiromide,drug2gene,HPN
+Alitretinoin,drug2gene,RARA
+Alitretinoin,drug2gene,RXRA
+Alitretinoin,drug2gene,RARB
+Alitretinoin,drug2gene,RXRB
+Alitretinoin,drug2gene,RARG
+Alitretinoin,drug2gene,RXRG
+Metolazone,drug2gene,SLC12A3
+Cinchocaine,drug2gene,SCN5A
+Cinchocaine,drug2gene,SCN10A
+Lercanidipine,drug2gene,CACNG1
+Erlotinib,drug2gene,NR1I2
+Erlotinib,drug2gene,EGFR
+Mephenytoin,drug2gene,SCN5A
+Rofecoxib,drug2gene,PTGS2
+Chlormerodrin,drug2gene,SLC12A1
+Guanidine,drug2gene,ALDH2
+Toremifene,drug2gene,ESR1
+Nortriptyline,drug2gene,SLC6A2
+Nortriptyline,drug2gene,SLC6A4
+Nortriptyline,drug2gene,HTR2A
+Vincristine,drug2gene,TUBB
+Benazepril,drug2gene,ACE
+Amoxapine,drug2gene,SLC6A4
+Fluorouracil,drug2gene,TYMS
+Pyridostigmine,drug2gene,BCHE
+Pyridostigmine,drug2gene,ACHE
+Adinazolam,drug2gene,GABRA1
+Desoximetasone,drug2gene,NR3C1
+Azelaic acid,drug2gene,AKR1D1
+Azelaic acid,drug2gene,SRD5A2
+Azelaic acid,drug2gene,TYR
+Zafirlukast,drug2gene,CYSLTR1
+Propylthiouracil,drug2gene,TPO
+Pentostatin,drug2gene,ADA
+Piroxicam,drug2gene,PTGS2
+Lamotrigine,drug2gene,CACNA1E
+Lamotrigine,drug2gene,SCN1A
+Hydroxyzine,drug2gene,HRH1
+Bosentan,drug2gene,EDNRB
+Bosentan,drug2gene,EDNRA
+Doxapram,drug2gene,KCNK3
+Doxapram,drug2gene,KCNK9
+Benzthiazide,drug2gene,SLC12A3
+Benzthiazide,drug2gene,CA1
+Methotrexate,drug2gene,TYMS
+Methotrexate,drug2gene,ATIC
+Methotrexate,drug2gene,DHFR
+Carbamazepine,drug2gene,SCN1A
+Cisatracurium,drug2gene,CHRNA10
+Cinnarizine,drug2gene,HRH1
+Cinnarizine,drug2gene,CACNA1C
+Cinnarizine,drug2gene,CACNA1D
+Cinnarizine,drug2gene,CACNA1F
+Cinnarizine,drug2gene,CACNA1S
+Cinnarizine,drug2gene,CACNA1G
+Cinnarizine,drug2gene,CACNA1H
+Cinnarizine,drug2gene,CACNA1I
+Fondaparinux,drug2gene,F10
+Fondaparinux,drug2gene,SERPINC1
+Vinblastine,drug2gene,TUBA1A
+Vinblastine,drug2gene,TUBB
+Vinblastine,drug2gene,TUBD1
+Vinblastine,drug2gene,TUBG1
+Vinblastine,drug2gene,TUBE1
+Propranolol,drug2gene,ADRB1
+Atropine,drug2gene,CHRM1
+Atropine,drug2gene,CHRM2
+Atropine,drug2gene,CHRM3
+Atropine,drug2gene,CHRM4
+Atropine,drug2gene,CHRM5
+Fenoprofen,drug2gene,PTGS2
+Fenfluramine,drug2gene,SLC6A4
+Fenfluramine,drug2gene,HTR1D
+Fenfluramine,drug2gene,HTR2C
+Fenfluramine,drug2gene,SIGMAR1
+Clonidine,drug2gene,ADRA2B
+Clonidine,drug2gene,ADRA2C
+Clonidine,drug2gene,ADRA2A
+Mazindol,drug2gene,SLC6A2
+Mazindol,drug2gene,SLC6A3
+Mazindol,drug2gene,SLC6A4
+Valdecoxib,drug2gene,PTGS2
+Enalapril,drug2gene,ACE
+Nizatidine,drug2gene,HRH2
+Diclofenac,drug2gene,PTGS2
+Diclofenac,drug2gene,PTGS1
+Cinalukast,drug2gene,CYSLTR1
+Fluticasone propionate,drug2gene,NR3C1
+Lisuride,drug2gene,DRD2
+Lisuride,drug2gene,DRD3
+Lisuride,drug2gene,DRD4
+Lisuride,drug2gene,HTR2A
+Lisuride,drug2gene,HTR2C
+Doxazosin,drug2gene,ADRA1A
+Doxazosin,drug2gene,ADRA1D
+Fluocinolone acetonide,drug2gene,NR3C1
+Fluocinolone acetonide,drug2gene,ANXA1
+Fluocinolone acetonide,drug2gene,ANXA2
+Fluocinolone acetonide,drug2gene,ANXA3
+Fluocinolone acetonide,drug2gene,ANXA4
+Fluocinolone acetonide,drug2gene,ANXA5
+Piperazine,drug2gene,GABRB3
+Ethosuximide,drug2gene,CACNA1G
+Amiloride,drug2gene,SCNN1A
+Amiloride,drug2gene,SCNN1B
+Amiloride,drug2gene,SCNN1G
+Amiloride,drug2gene,SCNN1D
+Ulobetasol,drug2gene,NR3C1
+Labetalol,drug2gene,ADRB1
+Labetalol,drug2gene,ADRB2
+Labetalol,drug2gene,ADRA1A
+Thiopental,drug2gene,GABRA1
+Thiopental,drug2gene,GABRA2
+Thiopental,drug2gene,GABRA3
+Thiopental,drug2gene,GABRA4
+Thiopental,drug2gene,GABRA5
+Thiopental,drug2gene,GABRA6
+Medroxyprogesterone acetate,drug2gene,PGR
+Medroxyprogesterone acetate,drug2gene,ESR1
+Cisapride,drug2gene,HTR4
+Cisapride,drug2gene,HTR3A
+Cisapride,drug2gene,HTR2A
+Sulindac,drug2gene,PTGS2
+Cyclothiazide,drug2gene,FXYD2
+Cyclothiazide,drug2gene,CA1
+Metaraminol,drug2gene,ADRA1A
+Butorphanol,drug2gene,OPRK1
+Butorphanol,drug2gene,OPRD1
+Butorphanol,drug2gene,OPRM1
+Bisoprolol,drug2gene,ADRB1
+Candoxatril,drug2gene,MME
+Paramethadione,drug2gene,CACNA1I
+Imatinib,drug2gene,BCR
+Imatinib,drug2gene,KIT
+Imatinib,drug2gene,RET
+Imatinib,drug2gene,PDGFRA
+Imatinib,drug2gene,ABL1
+Imatinib,drug2gene,PDGFRB
+Triamcinolone,drug2gene,NR3C1
+Oxandrolone,drug2gene,AR
+Nicardipine,drug2gene,CACNA1C
+Nicardipine,drug2gene,CACNB2
+Nicardipine,drug2gene,CACNA2D1
+Nicardipine,drug2gene,CACNA1D
+Fluphenazine,drug2gene,DRD2
+Fluphenazine,drug2gene,DRD1
+Testosterone,drug2gene,AR
+Bacitracin,drug2gene,IDE
+Niacin,drug2gene,HCAR3
+Niacin,drug2gene,HCAR2
+Niacin,drug2gene,QPRT
+Niacin,drug2gene,NNMT
+Clorazepic acid,drug2gene,GABRA1
+Guanabenz,drug2gene,ADRA2A
+Alendronic acid,drug2gene,FDPS
+Clofarabine,drug2gene,POLA1
+Clofarabine,drug2gene,RRM1
+Dexmedetomidine,drug2gene,ADRA2A
+Prednisone,drug2gene,NR3C1
+Clofibrate,drug2gene,PPARA
+Astemizole,drug2gene,HRH1
+Adenosine,drug2gene,ADORA1
+Adenosine,drug2gene,ADORA2A
+Adenosine,drug2gene,ADORA2B
+Adenosine,drug2gene,ADORA3
+Simvastatin,drug2gene,HMGCR
+Pemetrexed,drug2gene,TYMS
+Pemetrexed,drug2gene,ATIC
+Pemetrexed,drug2gene,DHFR
+Pemetrexed,drug2gene,GART
+Mebendazole,drug2gene,TUBA1A
+Mebendazole,drug2gene,TUBB4B
+Gonadorelin,drug2gene,GNRHR
+Gonadorelin,drug2gene,GNRHR2
+Dyclonine,drug2gene,SCN10A
+Dextropropoxyphene,drug2gene,OPRM1
+Dextropropoxyphene,drug2gene,OPRD1
+Dextropropoxyphene,drug2gene,OPRK1
+Mitotane,drug2gene,CYP11B1
+Dyphylline,drug2gene,PDE4B
+Dyphylline,drug2gene,PDE4A
+Dyphylline,drug2gene,PDE4C
+Dyphylline,drug2gene,PDE4D
+Dyphylline,drug2gene,ADORA1
+Dyphylline,drug2gene,ADORA2A
+Pentazocine,drug2gene,SIGMAR1
+Pentazocine,drug2gene,OPRM1
+Pentazocine,drug2gene,OPRK1
+Magnesium sulfate,drug2gene,CACNA1C
+Latanoprost,drug2gene,PTGFR
+Estrone,drug2gene,ESR1
+Trazodone,drug2gene,HTR2A
+Trazodone,drug2gene,HTR2C
+Trazodone,drug2gene,SLC6A4
+Trazodone,drug2gene,HTR1A
+Mecamylamine,drug2gene,CHRNA2
+Acamprosate,drug2gene,GRIN1
+Acamprosate,drug2gene,GRM5
+Acamprosate,drug2gene,GABBR1
+Verapamil,drug2gene,CACNA1C
+Flumethasone,drug2gene,NR3C1
+Nilutamide,drug2gene,AR
+Nafarelin,drug2gene,GNRHR
+Nafarelin,drug2gene,GNRHR2
+Epinephrine,drug2gene,ADRA1A
+Epinephrine,drug2gene,ADRA1B
+Epinephrine,drug2gene,ADRB1
+Epinephrine,drug2gene,ADRB2
+Epinephrine,drug2gene,ADRA2A
+Epinephrine,drug2gene,ADRA2B
+Sumatriptan,drug2gene,HTR1A
+Sumatriptan,drug2gene,HTR1D
+Sumatriptan,drug2gene,HTR1B
+Sumatriptan,drug2gene,HTR1F
+Pirenzepine,drug2gene,CHRM1
+Chlorpropamide,drug2gene,ABCC8
+Aprepitant,drug2gene,TACR1
+Galantamine,drug2gene,ACHE
+Galantamine,drug2gene,CHRNA7
+Tamoxifen,drug2gene,ESR1
+Tamoxifen,drug2gene,ESR2
+Tamoxifen,drug2gene,PRKCA
+Tamoxifen,drug2gene,SHBG
+Isoflurophate,drug2gene,ACHE
+Isoflurophate,drug2gene,BCHE
+Losartan,drug2gene,AGTR1
+Thioridazine,drug2gene,DRD2
+Thioridazine,drug2gene,DRD1
+Thioridazine,drug2gene,ADRA1A
+Thioridazine,drug2gene,ADRA1B
+Thioridazine,drug2gene,HTR2A
+Moricizine,drug2gene,SCN5A
+Warfarin,drug2gene,VKORC1
+Midazolam,drug2gene,GABRA1
+Pentosan polysulfate,drug2gene,FGF2
+Pentosan polysulfate,drug2gene,FGF1
+Fludrocortisone,drug2gene,NR3C2
+Mycophenolate mofetil,drug2gene,IMPDH1
+Mycophenolate mofetil,drug2gene,IMPDH2
+Flurazepam,drug2gene,GABRA1
+Moexipril,drug2gene,ACE
+Phentolamine,drug2gene,ADRA1A
+Phentolamine,drug2gene,ADRA2A
+Daunorubicin,drug2gene,TOP2A
+Daunorubicin,drug2gene,TOP2B
+Furosemide,drug2gene,SLC12A1
+Ergotamine,drug2gene,HTR1D
+Ergotamine,drug2gene,HTR1B
+Ergotamine,drug2gene,HTR2A
+Ergotamine,drug2gene,ADRA1A
+Ergotamine,drug2gene,ADRA1B
+Ergotamine,drug2gene,ADRA1D
+Nicergoline,drug2gene,ADRA1A
+Eplerenone,drug2gene,NR3C2
+Methazolamide,drug2gene,CA1
+Methazolamide,drug2gene,CA4
+Methazolamide,drug2gene,CA2
+Methazolamide,drug2gene,CA7
+Naltrexone,drug2gene,OPRM1
+Naltrexone,drug2gene,OPRK1
+Naltrexone,drug2gene,OPRD1
+Tamsulosin,drug2gene,ADRA1A
+Sufentanil,drug2gene,OPRM1
+Ibandronate,drug2gene,GGPS1
+Ibandronate,drug2gene,FDPS
+Diethylcarbamazine,drug2gene,ALOX5
+Flurbiprofen,drug2gene,PTGS2
+Apomorphine,drug2gene,DRD4
+Apomorphine,drug2gene,DRD2
+Apomorphine,drug2gene,DRD3
+Paroxetine,drug2gene,SLC6A4
+Nedocromil,drug2gene,CYSLTR1
+Nedocromil,drug2gene,CYSLTR2
+Norethisterone,drug2gene,PGR
+Azatadine,drug2gene,HRH1
+Clodronic acid,drug2gene,SLC25A4
+Clodronic acid,drug2gene,SLC25A5
+Clodronic acid,drug2gene,SLC25A6
+Procaine,drug2gene,SCN10A
+Procaine,drug2gene,GRIN3A
+Procaine,drug2gene,HTR3A
+Procaine,drug2gene,SLC6A3
+Lisinopril,drug2gene,ACE
+Methoxamine,drug2gene,ADRA1A
+Imiquimod,drug2gene,TLR7
+Homatropine methylbromide,drug2gene,CHRM2
+Homatropine methylbromide,drug2gene,CHRM1
+Homatropine methylbromide,drug2gene,CHRM4
+Homatropine methylbromide,drug2gene,CHRM5
+Homatropine methylbromide,drug2gene,CHRM3
+Trimipramine,drug2gene,SLC6A4
+Trimipramine,drug2gene,SLC6A2
+Rocuronium,drug2gene,CHRNA2
+Rocuronium,drug2gene,CHRM2
+Nateglinide,drug2gene,ABCC8
+Atracurium besylate,drug2gene,CHRNA2
+Pralidoxime,drug2gene,ACHE
+Pralidoxime,drug2gene,BCHE
+Risperidone,drug2gene,HTR2A
+Risperidone,drug2gene,DRD2
+Naftifine,drug2gene,SQLE
+Esomeprazole,drug2gene,ATP4A
+Meclizine,drug2gene,HRH1
+Riluzole,drug2gene,SCN5A
+Riluzole,drug2gene,SLC7A11
+Hydrocortisone,drug2gene,NR3C1
+Hydrocortisone,drug2gene,ANXA1
+Zileuton,drug2gene,ALOX5
+Modafinil,drug2gene,SLC6A3
+Scopolamine,drug2gene,CHRM1
+Scopolamine,drug2gene,CHRM2
+Scopolamine,drug2gene,CHRM3
+Scopolamine,drug2gene,CHRM4
+Scopolamine,drug2gene,CHRM5
+Carbinoxamine,drug2gene,HRH1
+Etodolac,drug2gene,PTGS2
+Prilocaine,drug2gene,SCN5A
+Epinastine,drug2gene,HRH1
+Epinastine,drug2gene,HRH2
+Tranylcypromine,drug2gene,MAOB
+Tranylcypromine,drug2gene,MAOA
+Isoflurane,drug2gene,GABRA1
+Isoflurane,drug2gene,ATP2C1
+Isoflurane,drug2gene,GLRA1
+Isoflurane,drug2gene,GRIA1
+Isoflurane,drug2gene,KCNA1
+Ethotoin,drug2gene,SCN5A
+Tretinoin,drug2gene,RXRB
+Tretinoin,drug2gene,RXRG
+Tretinoin,drug2gene,RARG
+Hexachlorophene,drug2gene,SDHD
+Dolasetron,drug2gene,HTR3A
+Clopidogrel,drug2gene,P2RY12
+Irinotecan,drug2gene,TOP1MT
+Irinotecan,drug2gene,TOP1
+Methimazole,drug2gene,TPO
+Mometasone,drug2gene,NR3C1
+Metyrosine,drug2gene,TH
+Benzquinamide,drug2gene,HRH1
+Benzquinamide,drug2gene,CHRM4
+Benzquinamide,drug2gene,CHRM1
+Benzquinamide,drug2gene,CHRM5
+Benzquinamide,drug2gene,CHRM2
+Benzquinamide,drug2gene,CHRM3
+Olopatadine,drug2gene,HRH1
+Hydrocortamate,drug2gene,NR3C1
+Alprostadil,drug2gene,PTGER2
+Alprostadil,drug2gene,PTGER1
+Clidinium,drug2gene,CHRM1
+Malathion,drug2gene,BCHE
+Etoposide,drug2gene,TOP2A
+Hydroflumethiazide,drug2gene,SLC12A1
+Tirofiban,drug2gene,ITGA2B
+Tirofiban,drug2gene,ITGB3
+Propiomazine,drug2gene,HRH1
+Phenelzine,drug2gene,MAOA
+Phenelzine,drug2gene,MAOB
+Propantheline,drug2gene,CHRM1
+Estradiol,drug2gene,ESR1
+Estradiol,drug2gene,ESR2
+Mefenamic acid,drug2gene,PTGS2
+Cryptenamine,drug2gene,CHRM2
+Marimastat,drug2gene,MMP1
+Marimastat,drug2gene,MMP2
+Marimastat,drug2gene,MMP3
+Marimastat,drug2gene,MMP7
+Marimastat,drug2gene,MMP8
+Marimastat,drug2gene,MMP9
+Marimastat,drug2gene,MMP10
+Marimastat,drug2gene,MMP11
+Marimastat,drug2gene,MMP12
+Marimastat,drug2gene,MMP13
+Marimastat,drug2gene,MMP14
+Marimastat,drug2gene,MMP15
+Marimastat,drug2gene,MMP16
+Marimastat,drug2gene,MMP17
+Marimastat,drug2gene,MMP19
+Marimastat,drug2gene,MMP20
+Marimastat,drug2gene,MMP21
+Marimastat,drug2gene,MMP23A
+Marimastat,drug2gene,MMP24
+Marimastat,drug2gene,MMP25
+Marimastat,drug2gene,MMP26
+Marimastat,drug2gene,MMP27
+Marimastat,drug2gene,MMP28
+Naproxen,drug2gene,PTGS1
+Naproxen,drug2gene,PTGS2
+Perindopril,drug2gene,ACE
+Tripelennamine,drug2gene,HRH1
+Primidone,drug2gene,GABRA2
+Primidone,drug2gene,GABRA3
+Primidone,drug2gene,GABRA4
+Primidone,drug2gene,GABRA5
+Primidone,drug2gene,GABRA6
+Primidone,drug2gene,GABRA1
+Sulfasalazine,drug2gene,ALOX5
+Sulfasalazine,drug2gene,PTGS2
+Sulfasalazine,drug2gene,PTGS1
+Sulfasalazine,drug2gene,ACAT1
+Sulfasalazine,drug2gene,PLA2G1B
+Candesartan cilexetil,drug2gene,AGTR1
+Tolazoline,drug2gene,ADRA1A
+Tazarotene,drug2gene,RARA
+Tazarotene,drug2gene,RXRB
+Tazarotene,drug2gene,RARG
+Tazarotene,drug2gene,RARB
+Fenoldopam,drug2gene,DRD5
+Fenoldopam,drug2gene,DRD1
+Halazepam,drug2gene,GABRA1
+Alfentanil,drug2gene,OPRM1
+Dicyclomine,drug2gene,CHRM1
+Minaprine,drug2gene,MAOA
+Minaprine,drug2gene,HTR2B
+Minaprine,drug2gene,HTR2A
+Minaprine,drug2gene,HTR2C
+Minaprine,drug2gene,ACHE
+Pentoxifylline,drug2gene,ADORA2A
+Proparacaine,drug2gene,SCN10A
+Indapamide,drug2gene,SLC12A3
+Tropicamide,drug2gene,CHRM4
+Tropicamide,drug2gene,CHRM1
+Tropicamide,drug2gene,CHRM2
+Biperiden,drug2gene,CHRM1
+Ribavirin,drug2gene,IMPDH1
+Phenylbutazone,drug2gene,PTGS1
+Phenylbutazone,drug2gene,PTGS2
+Phenylbutazone,drug2gene,PTGIS
+Fentanyl,drug2gene,OPRM1
+Fentanyl,drug2gene,OPRD1
+Meloxicam,drug2gene,PTGS2
+Orciprenaline,drug2gene,ADRB2
+Propofol,drug2gene,GABRB2
+Propofol,drug2gene,GABRB3
+Propofol,drug2gene,GABRA1
+Acetazolamide,drug2gene,CA1
+Acetazolamide,drug2gene,CA2
+Acetazolamide,drug2gene,CA4
+Acetazolamide,drug2gene,CA12
+Acetazolamide,drug2gene,CA14
+Acetazolamide,drug2gene,CA3
+Acetazolamide,drug2gene,CA7
+Tadalafil,drug2gene,PDE5A
+Carprofen,drug2gene,PTGS2
+Disulfiram,drug2gene,DBH
+Disulfiram,drug2gene,ALDH2
+Ethynodiol diacetate,drug2gene,PGR
+Ethynodiol diacetate,drug2gene,ESR1
+Enprofylline,drug2gene,PDE4B
+Enprofylline,drug2gene,ADORA2B
+Enprofylline,drug2gene,PDE4A
+Levomenthol,drug2gene,TRPM8
+Levomenthol,drug2gene,TRPA1
+Levomenthol,drug2gene,TRPV3
+Levomenthol,drug2gene,CACNA1C
+Diazepam,drug2gene,GABRA1
+Phenmetrazine,drug2gene,SLC6A2
+Phenmetrazine,drug2gene,SLC6A3
+Trifluoperazine,drug2gene,DRD2
+Trifluoperazine,drug2gene,CALY
+Trifluoperazine,drug2gene,ADRA1A
+Mifepristone,drug2gene,PGR
+Mifepristone,drug2gene,NR3C1
+Brompheniramine,drug2gene,HRH1
+Loperamide,drug2gene,OPRM1
+Progabide,drug2gene,GABRA1
+Progabide,drug2gene,GABBR1
+Clocortolone,drug2gene,NR3C1
+Tolazamide,drug2gene,ABCC8
+Dobutamine,drug2gene,ADRA1A
+Dobutamine,drug2gene,ADRB1
+Oxazepam,drug2gene,GABRA1
+Donepezil,drug2gene,ACHE
+Nalbuphine,drug2gene,OPRK1
+Nalbuphine,drug2gene,OPRM1
+Nalbuphine,drug2gene,OPRD1
+Flurandrenolide,drug2gene,NR3C1
+Levamisole,drug2gene,CHRNA3
+Methylphenobarbital,drug2gene,GABRA2
+Methylphenobarbital,drug2gene,GABRA3
+Methylphenobarbital,drug2gene,GABRA4
+Methylphenobarbital,drug2gene,GABRA5
+Methylphenobarbital,drug2gene,GABRA6
+Methylphenobarbital,drug2gene,GABRA1
+Perphenazine,drug2gene,DRD2
+Perphenazine,drug2gene,DRD1
+Pseudoephedrine,drug2gene,SLC6A2
+Pseudoephedrine,drug2gene,SLC6A3
+Pseudoephedrine,drug2gene,ADRA1A
+Pseudoephedrine,drug2gene,ADRA2A
+Pseudoephedrine,drug2gene,SLC6A4
+Levorphanol,drug2gene,OPRM1
+Aminolevulinic acid,drug2gene,ALAD
+Drostanolone,drug2gene,AR
+Prednisolone,drug2gene,NR3C1
+Diflunisal,drug2gene,PTGS2
+Vardenafil,drug2gene,PDE5A
+Ranitidine,drug2gene,HRH2
+Tacrolimus,drug2gene,FKBP1A
+Benzphetamine,drug2gene,SLC18A2
+Benzphetamine,drug2gene,ADRA2A
+Benzphetamine,drug2gene,ADRA1A
+Alprenolol,drug2gene,ADRB1
+Alprenolol,drug2gene,ADRB2
+Alprenolol,drug2gene,HTR1A
+Ritodrine,drug2gene,ADRB2
+Ritodrine,drug2gene,ADRB1
+Ritodrine,drug2gene,KCNJ1
+Ritodrine,drug2gene,KCNMA1
+Dorzolamide,drug2gene,CA2
+Dorzolamide,drug2gene,CA4
+Dorzolamide,drug2gene,CA1
+Suprofen,drug2gene,PTGS1
+Suprofen,drug2gene,PTGS2
+Terbutaline,drug2gene,ADRB2
+Conivaptan,drug2gene,AVPR1A
+Conivaptan,drug2gene,AVPR2
+Loteprednol etabonate,drug2gene,NR3C1
+Flupentixol,drug2gene,DRD2
+Flupentixol,drug2gene,DRD1
+Flupentixol,drug2gene,HTR2A
+Eprosartan,drug2gene,AGTR1
+Sirolimus,drug2gene,MTOR
+Chlorothiazide,drug2gene,SLC12A3
+Chlorothiazide,drug2gene,CA1
+Chlorothiazide,drug2gene,CA2
+Quinapril,drug2gene,ACE
+Clomifene,drug2gene,ESR1
+Isosorbide dinitrate,drug2gene,NPR1
+Risedronic acid,drug2gene,FDPS
+Omapatrilat,drug2gene,MME
+Bumetanide,drug2gene,SLC12A1
+Bumetanide,drug2gene,SLC12A2
+Bumetanide,drug2gene,SLC12A4
+Bumetanide,drug2gene,SLC12A5
+Granisetron,drug2gene,HTR3A
+Dienestrol,drug2gene,ESR1
+Oxybuprocaine,drug2gene,SCN10A
+Iron Dextran,drug2gene,HBB
+Iron Dextran,drug2gene,HBA1
+Iron Dextran,drug2gene,FTH1
+Iron Dextran,drug2gene,FTL
+Testolactone,drug2gene,CYP19A1
+Benzylpenicilloyl polylysine,drug2gene,FCER1G
+Benzylpenicilloyl polylysine,drug2gene,FCER1A
+Rimexolone,drug2gene,NR3C1
+Triazolam,drug2gene,GABRA1
+Ethanol,drug2gene,GABRA1
+Ethanol,drug2gene,GRIN3A
+Ethanol,drug2gene,GLRA1
+Ethanol,drug2gene,GLRA2
+Remifentanil,drug2gene,OPRM1
+Bitolterol,drug2gene,ADRB2
+Methdilazine,drug2gene,HRH1
+Etacrynic acid,drug2gene,SLC12A1
+Etacrynic acid,drug2gene,ATP1A1
+Ondansetron,drug2gene,HTR3A
+Bimatoprost,drug2gene,PTGFR
+Bimatoprost,drug2gene,PTGER1
+Bimatoprost,drug2gene,PTGER3
+Tiagabine,drug2gene,SLC6A1
+Cocaine,drug2gene,SLC6A3
+Cocaine,drug2gene,SLC6A2
+Cocaine,drug2gene,SCN1A
+Cocaine,drug2gene,SLC6A4
+Quinidine,drug2gene,SCN5A
+Zonisamide,drug2gene,SCN1A
+Zonisamide,drug2gene,SCN2A
+Zonisamide,drug2gene,SCN3A
+Zonisamide,drug2gene,SCN4A
+Zonisamide,drug2gene,SCN5A
+Zonisamide,drug2gene,SCN9A
+Zonisamide,drug2gene,SCN11A
+Zonisamide,drug2gene,SCN1B
+Zonisamide,drug2gene,SCN2B
+Zonisamide,drug2gene,SCN3B
+Zonisamide,drug2gene,SCN4B
+Zonisamide,drug2gene,CACNA1G
+Zonisamide,drug2gene,CACNA1H
+Zonisamide,drug2gene,CACNA1I
+Paricalcitol,drug2gene,VDR
+Repaglinide,drug2gene,ABCC8
+Repaglinide,drug2gene,HRH1
+Anileridine,drug2gene,OPRM1
+Phenformin,drug2gene,PRKAA1
+Amantadine,drug2gene,GRIN3A
+Amantadine,drug2gene,DRD2
+Dinoprostone,drug2gene,PTGER2
+Dinoprostone,drug2gene,PTGER1
+Dinoprostone,drug2gene,PTGER3
+Dinoprostone,drug2gene,PTGER4
+Ketotifen,drug2gene,HRH1
+Buprenorphine,drug2gene,OPRK1
+Buprenorphine,drug2gene,OPRM1
+Levosimendan,drug2gene,TNNC1
+Levosimendan,drug2gene,KCNJ11
+Levosimendan,drug2gene,KCNJ8
+Cyclobenzaprine,drug2gene,HTR2A
+Phenoxybenzamine,drug2gene,ADRA1A
+Phenoxybenzamine,drug2gene,ADRA2A
+Etretinate,drug2gene,RARA
+Etretinate,drug2gene,RXRA
+Etretinate,drug2gene,RARB
+Etretinate,drug2gene,RXRG
+Etretinate,drug2gene,RXRB
+Etretinate,drug2gene,RARG
+Famotidine,drug2gene,HRH2
+Azacitidine,drug2gene,DNMT1
+Misoprostol,drug2gene,PTGER3
+Misoprostol,drug2gene,PTGER2
+Misoprostol,drug2gene,PTGER1
+Mesoridazine,drug2gene,DRD2
+Mesoridazine,drug2gene,HTR2A
+Maprotiline,drug2gene,SLC6A2
+Oxymetazoline,drug2gene,ADRA1A
+Oxymetazoline,drug2gene,ADRA2A
+Oxymetazoline,drug2gene,ADRA2B
+Salicylic acid,drug2gene,PTGS1
+Salicylic acid,drug2gene,PTGS2
+Diethylpropion,drug2gene,SLC6A2
+Diethylpropion,drug2gene,SLC6A3
+Salmeterol,drug2gene,ADRB2
+Meclofenamic acid,drug2gene,PTGS1
+Meclofenamic acid,drug2gene,PTGS2
+Meclofenamic acid,drug2gene,ALOX5
+Methantheline,drug2gene,HRH2
+Hexafluronium,drug2gene,BCHE
+Cycrimine,drug2gene,CHRM1
+Demecarium,drug2gene,ACHE
+Acetylsalicylic acid,drug2gene,PTGS1
+Acetylsalicylic acid,drug2gene,PTGS2
+Phenprocoumon,drug2gene,VKORC1
+Fulvestrant,drug2gene,ESR1
+Felbamate,drug2gene,GRIN2B
+Felbamate,drug2gene,GRIN2A
+Fexofenadine,drug2gene,HRH1
+Naratriptan,drug2gene,HTR1A
+Naratriptan,drug2gene,HTR1D
+Naratriptan,drug2gene,HTR1B
+Naratriptan,drug2gene,HTR1F
+Rizatriptan,drug2gene,HTR1D
+Rizatriptan,drug2gene,HTR1B
+Rizatriptan,drug2gene,HTR1F
+Hydrocodone,drug2gene,OPRM1
+Hydrocodone,drug2gene,OPRD1
+Norgestimate,drug2gene,PGR
+Norgestimate,drug2gene,ESR1
+Methylprednisolone,drug2gene,NR3C1
+Pindolol,drug2gene,ADRB1
+Pindolol,drug2gene,ADRB2
+Mepivacaine,drug2gene,SCN10A
+Zaleplon,drug2gene,GABRA1
+Bromfenac,drug2gene,PTGS2
+Apraclonidine,drug2gene,ADRA1A
+Apraclonidine,drug2gene,ADRA2A
+Telmisartan,drug2gene,PPARG
+Telmisartan,drug2gene,AGTR1
+Desloratadine,drug2gene,HRH1
+Methyldopa,drug2gene,DDC
+Methyldopa,drug2gene,ADRA2A
+Alosetron,drug2gene,HTR3A
+Azelastine,drug2gene,HRH1
+Ezetimibe,drug2gene,NPC1L1
+Ezetimibe,drug2gene,SOAT1
+Dipyridamole,drug2gene,PDE10A
+Dipyridamole,drug2gene,PDE5A
+Dipyridamole,drug2gene,PDE4A
+Dipyridamole,drug2gene,ADA
+Ethinylestradiol,drug2gene,ESR1
+Cyclopentolate,drug2gene,CHRM1
+Ramelteon,drug2gene,MTNR1B
+Ramelteon,drug2gene,MTNR1A
+Physostigmine,drug2gene,ACHE
+Formoterol,drug2gene,ADRB2
+Nandrolone phenpropionate,drug2gene,AR
+Dimenhydrinate,drug2gene,HRH1
+Glycopyrronium,drug2gene,CHRM1
+Glycopyrronium,drug2gene,CHRM3
+Glycopyrronium,drug2gene,CHRM2
+Glycopyrronium,drug2gene,CHRM4
+Cytarabine,drug2gene,POLB
+Dopamine,drug2gene,DRD2
+Dopamine,drug2gene,DRD1
+Dopamine,drug2gene,DRD5
+Dopamine,drug2gene,DRD3
+Dopamine,drug2gene,DRD4
+Dopamine,drug2gene,SLC6A3
+Dopamine,drug2gene,DBH
+Rivastigmine,drug2gene,ACHE
+Rivastigmine,drug2gene,BCHE
+Exemestane,drug2gene,CYP19A1
+Oxaprozin,drug2gene,PTGS1
+Oxaprozin,drug2gene,PTGS2
+Auranofin,drug2gene,PRDX5
+Auranofin,drug2gene,IKBKB
+Gabapentin,drug2gene,CACNA2D1
+Doxorubicin,drug2gene,TOP2A
+Doxorubicin,drug2gene,TOP1
+Doxorubicin,drug2gene,TOP2B
+Frovatriptan,drug2gene,HTR1D
+Frovatriptan,drug2gene,HTR1B
+Hydrochlorothiazide,drug2gene,SLC12A3
+Hydrochlorothiazide,drug2gene,KCNMA1
+Salbutamol,drug2gene,ADRB2
+Levobupivacaine,drug2gene,SCN10A
+Hydroxyurea,drug2gene,RRM1
+Letrozole,drug2gene,CYP19A1
+Ketoprofen,drug2gene,PTGS2
+Edrophonium,drug2gene,BCHE
+Edrophonium,drug2gene,ACHE
+Metyrapone,drug2gene,CYP11B1
+Cinacalcet,drug2gene,CASR
+Clobetasol propionate,drug2gene,NR3C1
+Balsalazide,drug2gene,PPARG
+Balsalazide,drug2gene,PTGS2
+Balsalazide,drug2gene,PTGS1
+Balsalazide,drug2gene,ALOX5
+Glyburide,drug2gene,ABCC8
+Guanfacine,drug2gene,ADRA2A
+Bethanechol,drug2gene,CHRM3
+Isosorbide mononitrate,drug2gene,GUCY1A2
+Trichlormethiazide,drug2gene,SLC12A3
+Trichlormethiazide,drug2gene,ATP1A1
+Phylloquinone,drug2gene,GGCX
+Felodipine,drug2gene,CACNA1C
+Felodipine,drug2gene,CACNA2D1
+Felodipine,drug2gene,CACNB2
+Felodipine,drug2gene,CACNA1D
+Felodipine,drug2gene,CACNA1S
+Mycophenolic acid,drug2gene,IMPDH2
+Mycophenolic acid,drug2gene,IMPDH1
+Ketoconazole,drug2gene,CYP17A1
+Methoxyflurane,drug2gene,GABRA1
+Methoxyflurane,drug2gene,GRIA1
+Methoxyflurane,drug2gene,GLRA1
+Methoxyflurane,drug2gene,KCNA1
+Irbesartan,drug2gene,AGTR1
+Topotecan,drug2gene,TOP1
+Ethinamate,drug2gene,CA2
+Ethinamate,drug2gene,CA1
+Probenecid,drug2gene,SLC22A6
+Probenecid,drug2gene,SLC22A11
+Probenecid,drug2gene,SLC22A8
+Mercaptopurine,drug2gene,HPRT1
+Cerulenin,drug2gene,FASN
+Tolterodine,drug2gene,CHRM3
+Tolterodine,drug2gene,CHRM2
+Tolterodine,drug2gene,CHRM5
+Tolterodine,drug2gene,CHRM1
+Tolterodine,drug2gene,CHRM4
+Selegiline,drug2gene,MAOB
+Carphenazine,drug2gene,DRD2
+Carphenazine,drug2gene,DRD1
+Carphenazine,drug2gene,DRD5
+Fenofibrate,drug2gene,PPARA
+Thalidomide,drug2gene,CRBN
+Thalidomide,drug2gene,ORM1
+Memantine,drug2gene,GRIN1
+Lubiprostone,drug2gene,CLCN2
+Fluocinonide,drug2gene,NR3C1
+Ergoloid mesylate,drug2gene,DRD1
+Ergoloid mesylate,drug2gene,ADRA1A
+Ergoloid mesylate,drug2gene,ADRB1
+Ergoloid mesylate,drug2gene,HTR1A
+Ibuprofen,drug2gene,PTGS2
+Ibuprofen,drug2gene,PTGS1
+Nitrendipine,drug2gene,CACNA1C
+Nitrendipine,drug2gene,CACNA2D1
+Nitrendipine,drug2gene,CACNB2
+Nitrendipine,drug2gene,CACNA1D
+Nitrendipine,drug2gene,CACNA1S
+Mimosine,drug2gene,SHMT1
+Mimosine,drug2gene,CCL2
+Tocainide,drug2gene,SCN5A
+Echothiophate,drug2gene,BCHE
+Oxybutynin,drug2gene,CHRM3
+Oxybutynin,drug2gene,CHRM2
+Oxybutynin,drug2gene,CHRM1
+Acetophenazine,drug2gene,DRD2
+Isoprenaline,drug2gene,ADRB1
+Isoprenaline,drug2gene,ADRB2
+Isoprenaline,drug2gene,ADRB3
+Melatonin,drug2gene,MTNR1A
+Melatonin,drug2gene,MTNR1B
+Glipizide,drug2gene,ABCC8
+Clonazepam,drug2gene,GABRA1
+Promethazine,drug2gene,HRH1
+Dihydrotachysterol,drug2gene,VDR
+Mequitazine,drug2gene,HRH1
+Fludarabine,drug2gene,DCK
+Fludarabine,drug2gene,POLA1
+Fludarabine,drug2gene,RRM1
+Perhexiline,drug2gene,CPT1A
+Perhexiline,drug2gene,CPT2
+Diphenhydramine,drug2gene,HRH1
+Atorvastatin,drug2gene,HMGCR
+Deslanoside,drug2gene,ATP1A1
+Tegaserod,drug2gene,HTR4
+Vigabatrin,drug2gene,ABAT
+Diphenoxylate,drug2gene,OPRM1
+Orlistat,drug2gene,PNLIP
+Orlistat,drug2gene,LIPF
+Emedastine,drug2gene,HRH1
+Pilocarpine,drug2gene,CHRM3
+Pilocarpine,drug2gene,CHRM1
+Pilocarpine,drug2gene,CHRM2
+Benzocaine,drug2gene,SCN10A
+Iloprost,drug2gene,PTGIR
+Iloprost,drug2gene,PTGER1
+Deserpidine,drug2gene,SLC18A2
+Pentolinium,drug2gene,CHRNA3
+Pentolinium,drug2gene,CHRNB4
+Pentolinium,drug2gene,CHRNA10
+Butenafine,drug2gene,SQLE
+Ouabain,drug2gene,ATP1A1
+Hesperetin,drug2gene,MTTP
+Hesperetin,drug2gene,SOAT1
+Fluvastatin,drug2gene,HMGCR
+Leflunomide,drug2gene,DHODH
+Rosuvastatin,drug2gene,HMGCR
+Pimozide,drug2gene,DRD2
+Pimozide,drug2gene,DRD3
+Pimozide,drug2gene,KCNH2
+Capecitabine,drug2gene,TYMS
+Arbutamine,drug2gene,ADRB1
+Quinacrine,drug2gene,PLA2G6
+Quinacrine,drug2gene,PLA2G4A
+Quinacrine,drug2gene,PLCL1
+Sertraline,drug2gene,SLC6A4
+Sibutramine,drug2gene,SLC6A3
+Sibutramine,drug2gene,SLC6A4
+Sibutramine,drug2gene,SLC6A2
+Levocabastine,drug2gene,HRH1
+Levocabastine,drug2gene,NTSR2
+Methyprylon,drug2gene,GABRA1
+Trilostane,drug2gene,HSD3B1
+Trilostane,drug2gene,HSD3B2
+Trilostane,drug2gene,ESR1
+Trilostane,drug2gene,ESR2
+Heparin,drug2gene,SERPINC1
+Heparin,drug2gene,F10
+Papaverine,drug2gene,PDE4B
+Chlorpheniramine,drug2gene,HRH1
+Nifedipine,drug2gene,CACNA1C
+Nifedipine,drug2gene,CACNA1D
+Nifedipine,drug2gene,CACNB2
+Trimethaphan,drug2gene,CHRNA10
+Amiodarone,drug2gene,KCNH2
+Amiodarone,drug2gene,ADRB1
+Diazoxide,drug2gene,KCNJ11
+Diazoxide,drug2gene,CA1
+Diazoxide,drug2gene,CA2
+Gliclazide,drug2gene,ABCC8
+Phenacemide,drug2gene,SCN1A
+Ambenonium,drug2gene,ACHE
+Tolbutamide,drug2gene,ABCC8
+Anisindione,drug2gene,GGCX
+Dutasteride,drug2gene,SRD5A1
+Dutasteride,drug2gene,SRD5A2
+Bicalutamide,drug2gene,AR
+Rabeprazole,drug2gene,ATP4A
+Prednicarbate,drug2gene,NR3C1
+Proguanil,drug2gene,DHFR
+Pioglitazone,drug2gene,PPARG
+Desoxycorticosterone pivalate,drug2gene,NR3C2
+Doxacurium,drug2gene,CHRNA2
+Carvedilol,drug2gene,ADRB1
+Carvedilol,drug2gene,ADRA1A
+Sulfinpyrazone,drug2gene,SLC22A12
+Sulfinpyrazone,drug2gene,ABCC1
+Sulfinpyrazone,drug2gene,ABCC2
+Doxepin,drug2gene,HRH1
+Doxepin,drug2gene,HRH2
+Doxepin,drug2gene,SLC6A2
+Doxepin,drug2gene,SLC6A4
+Amifostine,drug2gene,ALPPL2
+Diclofenamide,drug2gene,CA2
+Diclofenamide,drug2gene,CA1
+Diclofenamide,drug2gene,CA4
+Diclofenamide,drug2gene,CA7
+Diphenylpyraline,drug2gene,HRH1
+Flavoxate,drug2gene,CHRM1
+Flavoxate,drug2gene,CHRM2
+Nefazodone,drug2gene,HTR2A
+Nefazodone,drug2gene,HTR2C
+Nefazodone,drug2gene,SLC6A4
+Nefazodone,drug2gene,HTR1A
+Nefazodone,drug2gene,SLC6A2
+Desipramine,drug2gene,SLC6A2
+Desipramine,drug2gene,SLC6A4
+Desipramine,drug2gene,HTR2A
+Thiamylal,drug2gene,KCNJ8
+Thiamylal,drug2gene,KCNJ11
+Thiamylal,drug2gene,GABRA1
+Bupropion,drug2gene,SLC6A3
+Bupropion,drug2gene,SLC6A2
+Trimetrexate,drug2gene,DHFR
+Bretylium,drug2gene,ATP1A1
+Halothane,drug2gene,KCNK3
+Halothane,drug2gene,KCNK9
+Halothane,drug2gene,GABRA1
+Halothane,drug2gene,ATP2B1
+Dinoprost tromethamine,drug2gene,PTGFR
+Chloroprocaine,drug2gene,SCN1A
+Terazosin,drug2gene,ADRA1A
+Terazosin,drug2gene,ADRA1B
+Terazosin,drug2gene,ADRA1D
+Terazosin,drug2gene,TGFB1
+Cilostazol,drug2gene,PDE3A
+Itraconazole,drug2gene,CYP51A1
+Procarbazine,drug2gene,MAOA
+Arsenic trioxide,drug2gene,IKBKB
+Arsenic trioxide,drug2gene,TXNRD1
+Arsenic trioxide,drug2gene,JUN
+Arsenic trioxide,drug2gene,CCND1
+Arsenic trioxide,drug2gene,MAPK3
+Arsenic trioxide,drug2gene,MAPK1
+Guanethidine,drug2gene,SLC6A2
+Moclobemide,drug2gene,MAOA
+Orphenadrine,drug2gene,GRIN2D
+Orphenadrine,drug2gene,GRIN1
+Orphenadrine,drug2gene,GRIN3B
+Orphenadrine,drug2gene,GRIN3A
+Orphenadrine,drug2gene,HRH1
+Orphenadrine,drug2gene,SLC6A2
+Phenobarbital,drug2gene,GABRA1
+Escitalopram,drug2gene,SLC6A4
+Cyclizine,drug2gene,HRH1
+Idarubicin,drug2gene,TOP2A
+Chlormezanone,drug2gene,TSPO
+Podofilox,drug2gene,TUBA4A
+Podofilox,drug2gene,TUBB
+Podofilox,drug2gene,TOP2A
+Rescinnamine,drug2gene,ACE
+Propafenone,drug2gene,SCN5A
+Propafenone,drug2gene,KCNH2
+Naloxone,drug2gene,OPRM1
+Naloxone,drug2gene,OPRD1
+Naloxone,drug2gene,OPRK1
+Domperidone,drug2gene,DRD3
+Domperidone,drug2gene,DRD2
+Fluoxymesterone,drug2gene,AR
+Fluoxymesterone,drug2gene,ESR1
+Pergolide,drug2gene,DRD2
+Pergolide,drug2gene,DRD3
+Pergolide,drug2gene,DRD4
+Pergolide,drug2gene,DRD5
+Pergolide,drug2gene,DRD1
+Ciclopirox,drug2gene,ATP1A1
+Desflurane,drug2gene,GABRA1
+Desflurane,drug2gene,GLRA1
+Desflurane,drug2gene,GRIA1
+Desflurane,drug2gene,KCNA1
+Desflurane,drug2gene,MT-ND1
+Desflurane,drug2gene,ATP2C1
+Dexfenfluramine,drug2gene,SLC6A4
+Oxymorphone,drug2gene,OPRM1
+Acebutolol,drug2gene,ADRB1
+Brinzolamide,drug2gene,CA2
+Flecainide,drug2gene,SCN4A
+Flecainide,drug2gene,SCN5A
+Estramustine,drug2gene,ESR2
+Estramustine,drug2gene,ESR1
+Estramustine,drug2gene,MAP2
+Estramustine,drug2gene,MAP1A
+Captopril,drug2gene,ACE
+Zopiclone,drug2gene,GABRA1
+Zopiclone,drug2gene,GABRA2
+Zopiclone,drug2gene,GABRA3
+Zopiclone,drug2gene,GABRA5
+Tubocurarine,drug2gene,CHRNA2
+Tubocurarine,drug2gene,HTR3A
+Bromocriptine,drug2gene,DRD2
+Bromocriptine,drug2gene,DRD3
+Levetiracetam,drug2gene,CACNA1B
+Levetiracetam,drug2gene,SV2A
+Nadolol,drug2gene,ADRB1
+Mitoxantrone,drug2gene,TOP2A
+Flumazenil,drug2gene,GABRG2
+Flumazenil,drug2gene,GABRA5
+Flumazenil,drug2gene,GABRA1
+Ridogrel,drug2gene,TBXAS1
+Ridogrel,drug2gene,TBXA2R
+Sparfloxacin,drug2gene,TOP2A
+Dezocine,drug2gene,OPRM1
+Dezocine,drug2gene,OPRK1
+Levobunolol,drug2gene,ADRB1
+Levobunolol,drug2gene,ADRB2
+Fomepizole,drug2gene,ADH1A
+Fomepizole,drug2gene,ADH1B
+Fomepizole,drug2gene,ADH1C
+Fomepizole,drug2gene,CAT
+Metipranolol,drug2gene,ADRB1
+Metipranolol,drug2gene,ADRB2
+Estazolam,drug2gene,GABRA1
+Finasteride,drug2gene,SRD5A2
+Anastrozole,drug2gene,CYP19A1
+Halofantrine,drug2gene,KCNH2
+Dantrolene,drug2gene,RYR1
+Ketamine,drug2gene,GRIN3A
+Ketamine,drug2gene,HTR3A
+Ketamine,drug2gene,CHRNA7
+Ketamine,drug2gene,BCHE
+Ketamine,drug2gene,NOS1
+Budesonide,drug2gene,NR3C1
+Aminophylline,drug2gene,PDE3A
+Aminophylline,drug2gene,ADORA1
+Aminophylline,drug2gene,ADORA3
+Aminophylline,drug2gene,HDAC2
+Quetiapine,drug2gene,HTR2A
+Quetiapine,drug2gene,DRD2
+Enoxaparin,drug2gene,SERPINC1
+Enoxaparin,drug2gene,F10
+Mivacurium,drug2gene,CHRNA2
+Levacetylmethadol,drug2gene,OPRM1
+Encainide,drug2gene,SCN5A
+Paclitaxel,drug2gene,TUBB1
+Paclitaxel,drug2gene,BCL2
+Paclitaxel,drug2gene,MAP4
+Paclitaxel,drug2gene,MAP2
+Paclitaxel,drug2gene,MAPT
+Diphenidol,drug2gene,CHRM2
+Diphenidol,drug2gene,CHRM1
+Diphenidol,drug2gene,CHRM3
+Metoclopramide,drug2gene,HTR4
+Metoclopramide,drug2gene,HTR3A
+Metoclopramide,drug2gene,CHRM1
+Metoclopramide,drug2gene,DRD2
+Dexamethasone,drug2gene,NR3C1
+Levodopa,drug2gene,DRD1
+Levodopa,drug2gene,DRD5
+Levodopa,drug2gene,DRD2
+Levodopa,drug2gene,DRD3
+Levodopa,drug2gene,DRD4
+Sevoflurane,drug2gene,GABRA1
+Sevoflurane,drug2gene,GLRA1
+Sevoflurane,drug2gene,GRIA1
+Sevoflurane,drug2gene,ATP2C1
+Sevoflurane,drug2gene,CCDC51
+Bromodiphenhydramine,drug2gene,HRH1
+Aripiprazole,drug2gene,DRD2
+Aripiprazole,drug2gene,HTR2A
+Chlorprothixene,drug2gene,DRD2
+Chlorprothixene,drug2gene,DRD1
+Chlorprothixene,drug2gene,DRD3
+Chlorprothixene,drug2gene,HTR2A
+Chlorprothixene,drug2gene,HRH1
+Chlorprothixene,drug2gene,HTR1A
+Epoprostenol,drug2gene,PTGIS
+Epoprostenol,drug2gene,P2RY12
+Epoprostenol,drug2gene,PTGIR
+Gemfibrozil,drug2gene,PPARA
+Clomipramine,drug2gene,SLC6A4
+Clomipramine,drug2gene,HTR2A
+Clomipramine,drug2gene,HTR2B
+Clomipramine,drug2gene,HTR2C
+Bepridil,drug2gene,CACNA1A
+Bepridil,drug2gene,CACNA1H
+Bepridil,drug2gene,CACNA2D2
+Decamethonium,drug2gene,CHRNA2
+Alimemazine,drug2gene,HRH1
+Isocarboxazid,drug2gene,MAOA
+Isocarboxazid,drug2gene,MAOB
+Docetaxel,drug2gene,TUBB1
+Docetaxel,drug2gene,MAP2
+Docetaxel,drug2gene,MAP4
+Docetaxel,drug2gene,MAPT
+Olsalazine,drug2gene,TPMT
+Olsalazine,drug2gene,IFNG
+Gliquidone,drug2gene,ABCC8
+Gliquidone,drug2gene,KCNJ8
+Mitiglinide,drug2gene,ABCC8
+Ergometrine,drug2gene,ADRA1A
+Dasatinib,drug2gene,ABL1
+Dasatinib,drug2gene,SRC
+Dasatinib,drug2gene,EPHA2
+Dasatinib,drug2gene,LCK
+Dasatinib,drug2gene,YES1
+Eculizumab,drug2gene,C5
+Lapatinib,drug2gene,EGFR
+Lapatinib,drug2gene,ERBB2
+Desonide,drug2gene,NR3C1
+Sitagliptin,drug2gene,DPP4
+Decitabine,drug2gene,DNMT1
+Paliperidone,drug2gene,HTR2A
+Paliperidone,drug2gene,DRD2
+Paliperidone,drug2gene,DRD4
+Paliperidone,drug2gene,DRD3
+Paliperidone,drug2gene,HTR2C
+Sunitinib,drug2gene,PDGFRB
+Sunitinib,drug2gene,FLT1
+Sunitinib,drug2gene,KIT
+Sunitinib,drug2gene,KDR
+Sunitinib,drug2gene,FLT4
+Sunitinib,drug2gene,FLT3
+Sunitinib,drug2gene,CSF1R
+Sunitinib,drug2gene,PDGFRA
+Panitumumab,drug2gene,EGFR
+Ranibizumab,drug2gene,VEGFA
+Alglucosidase alfa,drug2gene,M6PR
+Varenicline,drug2gene,CHRNA4
+Arformoterol,drug2gene,ADRB2
+Hydralazine,drug2gene,AOC3
+Exenatide,drug2gene,GLP1R
+Mecasermin,drug2gene,IGF1R
+Pramlintide,drug2gene,CALCR
+Pramlintide,drug2gene,RAMP1
+Pramlintide,drug2gene,RAMP2
+Pramlintide,drug2gene,RAMP3
+Galsulfase,drug2gene,PLIN3
+Abatacept,drug2gene,CD80
+Abatacept,drug2gene,CD86
+Carbetocin,drug2gene,OXTR
+Lumiracoxib,drug2gene,PTGS2
+Lumiracoxib,drug2gene,PTGS1
+Tetracosactide,drug2gene,MC2R
+Corticotropin,drug2gene,MC2R
+Fenoterol,drug2gene,ADRB2
+Glisoxepide,drug2gene,KCNJ8
+Pirbuterol,drug2gene,ADRB2
+Bevantolol,drug2gene,ADRB1
+Practolol,drug2gene,ADRB1
+Oxtriphylline,drug2gene,PDE3A
+Oxtriphylline,drug2gene,PDE4A
+Oxtriphylline,drug2gene,ADORA2A
+Oxtriphylline,drug2gene,ADORA1
+Oxtriphylline,drug2gene,HDAC2
+Insulin aspart,drug2gene,INSR
+Insulin detemir,drug2gene,INSR
+Insulin glulisine,drug2gene,INSR
+Fosphenytoin,drug2gene,SCN5A
+Polythiazide,drug2gene,SLC12A3
+Quinethazone,drug2gene,SLC12A1
+Quinethazone,drug2gene,SLC12A2
+Quinethazone,drug2gene,SLC12A3
+Quinethazone,drug2gene,CA1
+Quinethazone,drug2gene,CA2
+Metocurine,drug2gene,CHRNA2
+Pancuronium,drug2gene,CHRNA2
+Pipecuronium,drug2gene,CHRNA2
+Vecuronium,drug2gene,CHRNA2
+Cilazapril,drug2gene,ACE
+Dihydroquinidine barbiturate,drug2gene,GABRA1
+Forasartan,drug2gene,AGTR1
+Quinidine barbiturate,drug2gene,GABRA1
+Quinidine barbiturate,drug2gene,GABRA2
+Quinidine barbiturate,drug2gene,SCN5A
+Saprisartan,drug2gene,AGTR1
+Spirapril,drug2gene,ACE
+Tasosartan,drug2gene,AGTR1
+Amobarbital,drug2gene,GABRA1
+Amobarbital,drug2gene,GABRA2
+Amobarbital,drug2gene,GABRA3
+Amobarbital,drug2gene,GABRA4
+Amobarbital,drug2gene,GABRA5
+Amobarbital,drug2gene,GABRA6
+Aprobarbital,drug2gene,GABRA1
+Aprobarbital,drug2gene,GABRA2
+Aprobarbital,drug2gene,GABRA3
+Aprobarbital,drug2gene,GABRA4
+Aprobarbital,drug2gene,GABRA5
+Aprobarbital,drug2gene,GABRA6
+Butobarbital,drug2gene,GABRA2
+Butobarbital,drug2gene,GABRA3
+Butobarbital,drug2gene,GABRA4
+Butobarbital,drug2gene,GABRA5
+Butobarbital,drug2gene,GABRA6
+Butobarbital,drug2gene,GABRA1
+Heptabarbital,drug2gene,GABRA1
+Heptabarbital,drug2gene,GABRA2
+Heptabarbital,drug2gene,GABRA3
+Heptabarbital,drug2gene,GABRA4
+Heptabarbital,drug2gene,GABRA5
+Heptabarbital,drug2gene,GABRA6
+Hexobarbital,drug2gene,GABRA2
+Hexobarbital,drug2gene,GABRA3
+Hexobarbital,drug2gene,GABRA4
+Hexobarbital,drug2gene,GABRA5
+Hexobarbital,drug2gene,GABRA6
+Hexobarbital,drug2gene,GABRA1
+Mestranol,drug2gene,ESR1
+Penbutolol,drug2gene,ADRB1
+Penbutolol,drug2gene,ADRB2
+Penbutolol,drug2gene,HTR1A
+Ephedra sinica root,drug2gene,SLC6A3
+Ephedra sinica root,drug2gene,SLC6A2
+Ephedra sinica root,drug2gene,ADRA2A
+Ephedra sinica root,drug2gene,ADRA2B
+Ephedra sinica root,drug2gene,ADRA2C
+Ephedra sinica root,drug2gene,MAOA
+Ephedra sinica root,drug2gene,MAOB
+Ephedra sinica root,drug2gene,ADRB1
+Ephedra sinica root,drug2gene,ADRB2
+Ephedra sinica root,drug2gene,ADRB3
+Ephedra sinica root,drug2gene,SLC6A4
+Ephedra sinica root,drug2gene,SLC18A2
+Ephedra sinica root,drug2gene,SLC18A1
+Ephedrine,drug2gene,ADRA1A
+Ephedrine,drug2gene,ADRB1
+Ephedrine,drug2gene,ADRB2
+Mephentermine,drug2gene,ADRA1A
+Procaterol,drug2gene,ADRB2
+Rasagiline,drug2gene,MAOB
+Rasagiline,drug2gene,BCL2
+Calcium,drug2gene,CACNA1C
+Calcium,drug2gene,ATP2C1
+Calcium,drug2gene,TNNC2
+Calcium,drug2gene,TNNC1
+Cortisone acetate,drug2gene,NR3C1
+Glymidine,drug2gene,KCNJ1
+Paramethasone,drug2gene,NR3C1
+Mibefradil,drug2gene,CACNA1G
+Mibefradil,drug2gene,CACNA1H
+Mibefradil,drug2gene,CACNA1C
+Mibefradil,drug2gene,CACNA1D
+Mibefradil,drug2gene,CACNA1F
+Mibefradil,drug2gene,CACNA1I
+Mibefradil,drug2gene,CACNA1S
+Mibefradil,drug2gene,CACNB1
+Mibefradil,drug2gene,CACNB2
+Mibefradil,drug2gene,CACNB3
+Mibefradil,drug2gene,CACNB4
+Yohimbine,drug2gene,ADRA2A
+Yohimbine,drug2gene,ADRA2B
+Yohimbine,drug2gene,ADRA2C
+Bezafibrate,drug2gene,PPARD
+Bezafibrate,drug2gene,PPARG
+Bezafibrate,drug2gene,PPARA
+Colchicine,drug2gene,TUBB
+Drospirenone,drug2gene,NR3C2
+Drospirenone,drug2gene,AR
+Drospirenone,drug2gene,PGR
+Digitoxin,drug2gene,ATP1A1
+Magnesium salicylate,drug2gene,PTGS2
+Magnesium salicylate,drug2gene,PTGS1
+Salsalate,drug2gene,PTGS2
+Salsalate,drug2gene,PTGS1
+Neostigmine,drug2gene,ACHE
+Methotrimeprazine,drug2gene,DRD2
+Danazol,drug2gene,ESR1
+Danazol,drug2gene,AR
+Danazol,drug2gene,PGR
+Danazol,drug2gene,GNRHR
+Danazol,drug2gene,GNRHR2
+Clenbuterol,drug2gene,ADRB2
+Bambuterol,drug2gene,ADRB2
+Tiotropium,drug2gene,CHRM3
+Ciclesonide,drug2gene,NR3C1
+Pranlukast,drug2gene,CYSLTR1
+Theobromine,drug2gene,ADORA1
+Theobromine,drug2gene,ADORA2A
+Acenocoumarol,drug2gene,VKORC1
+Testosterone propionate,drug2gene,AR
+Nitroxoline,drug2gene,METAP2
+Alizapride,drug2gene,DRD2
+Ajmaline,drug2gene,SCN5A
+Amrinone,drug2gene,PDE4A
+Amrinone,drug2gene,PDE3A
+Aprindine,drug2gene,SCN5A
+Almitrine,drug2gene,ATP1A1
+Allylestrenol,drug2gene,PGR
+Methadyl acetate,drug2gene,OPRM1
+Alfacalcidol,drug2gene,VDR
+Glutethimide,drug2gene,GABRA1
+Phenazopyridine,drug2gene,SCN1A
+3-Methylthiofentanyl,drug2gene,OPRK1
+3-Methylthiofentanyl,drug2gene,OPRM1
+3-Methylthiofentanyl,drug2gene,OPRD1
+gamma-Hydroxybutyric acid,drug2gene,SLC52A2
+gamma-Hydroxybutyric acid,drug2gene,GABRB1
+MMDA,drug2gene,HTR2A
+MMDA,drug2gene,SLC6A3
+MMDA,drug2gene,SLC6A4
+MMDA,drug2gene,SLC6A2
+MMDA,drug2gene,SLC18A2
+MMDA,drug2gene,SLC18A1
+MMDA,drug2gene,MAOA
+MMDA,drug2gene,MAOB
+Dimethylthiambutene,drug2gene,OPRM1
+Diamorphine,drug2gene,OPRM1
+Midomafetamine,drug2gene,SLC18A2
+Midomafetamine,drug2gene,SLC6A2
+Midomafetamine,drug2gene,SLC6A4
+Fencamfamin,drug2gene,SLC6A3
+Ethylmorphine,drug2gene,OPRM1
+4-Methoxyamphetamine,drug2gene,SLC6A3
+4-Methoxyamphetamine,drug2gene,SLC6A4
+4-Methoxyamphetamine,drug2gene,SLC18A2
+4-Methoxyamphetamine,drug2gene,ADRA1A
+4-Methoxyamphetamine,drug2gene,ADRA2A
+1-Testosterone,drug2gene,AR
+Barbital,drug2gene,GABRA1
+Barbital,drug2gene,GABRA2
+Barbital,drug2gene,GABRA3
+Barbital,drug2gene,GABRA4
+Barbital,drug2gene,GABRA5
+Barbital,drug2gene,GABRA6
+Dimethyltryptamine,drug2gene,HTR6
+Camazepam,drug2gene,GABRA1
+Dihydro-2-thioxo-5-((5-(2-(trifluoromethyl)phenyl)-2-furanyl)methyl)-4,6(1H,5H)-pyrimidinedione,drug2gene,GABRA1
+Dihydro-2-thioxo-5-((5-(2-(trifluoromethyl)phenyl)-2-furanyl)methyl)-4,6(1H,5H)-pyrimidinedione,drug2gene,GABRA2
+Dihydro-2-thioxo-5-((5-(2-(trifluoromethyl)phenyl)-2-furanyl)methyl)-4,6(1H,5H)-pyrimidinedione,drug2gene,GABRA3
+Dihydro-2-thioxo-5-((5-(2-(trifluoromethyl)phenyl)-2-furanyl)methyl)-4,6(1H,5H)-pyrimidinedione,drug2gene,GABRA4
+Dihydro-2-thioxo-5-((5-(2-(trifluoromethyl)phenyl)-2-furanyl)methyl)-4,6(1H,5H)-pyrimidinedione,drug2gene,GABRA5
+Dihydro-2-thioxo-5-((5-(2-(trifluoromethyl)phenyl)-2-furanyl)methyl)-4,6(1H,5H)-pyrimidinedione,drug2gene,GABRA6
+Etorphine,drug2gene,OPRM1
+Etorphine,drug2gene,OPRD1
+Etorphine,drug2gene,OPRK1
+Delorazepam,drug2gene,GABRA1
+Tenocyclidine,drug2gene,GRIN3A
+Tenocyclidine,drug2gene,GRIN3B
+Tenocyclidine,drug2gene,GRIN2A
+Tenocyclidine,drug2gene,GRIN2C
+Tenocyclidine,drug2gene,GRIN2B
+Carfentanil,drug2gene,OPRM1
+Carfentanil,drug2gene,OPRD1
+Androstenedione,drug2gene,HSD17B1
+Androstenedione,drug2gene,HSD3B1
+Androstenedione,drug2gene,AKR1C3
+4-Bromo-2,5-dimethoxyphenethylamine,drug2gene,HTR2C
+Boldenone,drug2gene,AR
+Flunitrazepam,drug2gene,GABRA1
+Ethyl loflazepate,drug2gene,GABRA1
+Diprenorphine,drug2gene,OPRM1
+Diprenorphine,drug2gene,OPRD1
+Rolicyclidine,drug2gene,GRIN3A
+Cloxazolam,drug2gene,GABRA1
+Bromazepam,drug2gene,GABRA1
+Clotiazepam,drug2gene,GABRA1
+Calusterone,drug2gene,AR
+Dihydromorphine,drug2gene,OPRM1
+Fludiazepam,drug2gene,GABRA1
+Fludiazepam,drug2gene,GABRA2
+Fludiazepam,drug2gene,GABRA3
+Fludiazepam,drug2gene,GABRA5
+Fludiazepam,drug2gene,GABRG1
+Fludiazepam,drug2gene,GABRG2
+Fludiazepam,drug2gene,GABRG3
+Fludiazepam,drug2gene,GABRB1
+Fludiazepam,drug2gene,GABRB2
+Fludiazepam,drug2gene,GABRB3
+Fludiazepam,drug2gene,GABRD
+Fludiazepam,drug2gene,GABRE
+Fludiazepam,drug2gene,GABRP
+Fludiazepam,drug2gene,GABRR1
+Fludiazepam,drug2gene,GABRR2
+Fludiazepam,drug2gene,GABRR3
+3-Methylfentanyl,drug2gene,OPRM1
+3-Methylfentanyl,drug2gene,OPRD1
+3-Methylfentanyl,drug2gene,OPRK1
+Dextroamphetamine,drug2gene,SLC18A2
+Dextroamphetamine,drug2gene,SLC6A2
+Dextroamphetamine,drug2gene,SLC6A3
+Metamfetamine,drug2gene,SLC6A3
+Metamfetamine,drug2gene,SLC6A4
+Metamfetamine,drug2gene,SLC6A2
+Metamfetamine,drug2gene,SLC18A2
+Metamfetamine,drug2gene,SLC18A1
+Metamfetamine,drug2gene,TAAR1
+Metamfetamine,drug2gene,ADRA2A
+Metamfetamine,drug2gene,ADRA2B
+Metamfetamine,drug2gene,ADRA2C
+Metamfetamine,drug2gene,MAOA
+Metamfetamine,drug2gene,MAOB
+Phendimetrazine,drug2gene,ADRA1A
+Phendimetrazine,drug2gene,SLC6A2
+Oxprenolol,drug2gene,ADRB1
+Liotrix,drug2gene,THRA
+Liotrix,drug2gene,THRB
+Ursodeoxycholic acid,drug2gene,AKR1C2
+Ketazolam,drug2gene,GABRA1
+Prazepam,drug2gene,GABRA1
+Quazepam,drug2gene,GABRA1
+Everolimus,drug2gene,MTOR
+Solifenacin,drug2gene,CHRM3
+Cinolazepam,drug2gene,GABRA1
+Nitrazepam,drug2gene,GABRA1
+Cilastatin,drug2gene,DPEP1
+Probucol,drug2gene,ABCA1
+Tiaprofenic acid,drug2gene,PTGS1
+Tiaprofenic acid,drug2gene,PTGS2
+Periciazine,drug2gene,DRD1
+Periciazine,drug2gene,ADRA2A
+Hydroxychloroquine,drug2gene,TLR7
+Hydroxychloroquine,drug2gene,TLR9
+Amyl Nitrite,drug2gene,NPR1
+Erythrityl tetranitrate,drug2gene,NPR1
+Erythrityl tetranitrate,drug2gene,NPR2
+Acepromazine,drug2gene,DRD2
+Acepromazine,drug2gene,DRD1
+Acepromazine,drug2gene,HTR2A
+Acepromazine,drug2gene,HTR1A
+Aceprometazine,drug2gene,HRH1
+Alverine,drug2gene,HTR1A
+Molindone,drug2gene,DRD2
+Phenindamine,drug2gene,HRH1
+Pheniramine,drug2gene,HRH4
+Pheniramine,drug2gene,HRH1
+Pipotiazine,drug2gene,DRD2
+Pipotiazine,drug2gene,DRD1
+Pipotiazine,drug2gene,HTR2A
+Pipotiazine,drug2gene,HTR1A
+Thioproperazine,drug2gene,DRD2
+Thioproperazine,drug2gene,ADRA1A
+Thioproperazine,drug2gene,ADRA1B
+Thiothixene,drug2gene,DRD2
+Thiothixene,drug2gene,DRD1
+Zuclopenthixol,drug2gene,DRD1
+Zuclopenthixol,drug2gene,DRD5
+Zuclopenthixol,drug2gene,DRD2
+Isopropamide,drug2gene,CHRM3
+Pargyline,drug2gene,MAOB
+Etoricoxib,drug2gene,PTGS2
+Roflumilast,drug2gene,PDE4A
+Camphor,drug2gene,TRPV1
+Camphor,drug2gene,TRPV3
+Camphor,drug2gene,TRPA1
+Camphor,drug2gene,TRPM8
+Rolipram,drug2gene,PDE4A
+Taurine,drug2gene,GRIN2B
+Taurine,drug2gene,GLRA2
+Taurine,drug2gene,GLRA3
+Taurine,drug2gene,GABRA1
+Taurine,drug2gene,GABBR1
+Vorinostat,drug2gene,HDAC1
+Vorinostat,drug2gene,HDAC2
+Vorinostat,drug2gene,HDAC3
+Vorinostat,drug2gene,HDAC6
+Colforsin,drug2gene,ADCY1
+Terlipressin,drug2gene,AVPR1A
+Terlipressin,drug2gene,AVPR1B
+Terlipressin,drug2gene,AVPR2
+Nicotinamide,drug2gene,BST1
+Brivudine,drug2gene,TK2
+Phencyclidine,drug2gene,GRIN3A
+Mecobalamin,drug2gene,MTR
+Vanoxerine,drug2gene,SLC6A3
+Doconexent,drug2gene,PPARA
+Doconexent,drug2gene,PPARG
+Doconexent,drug2gene,RXRA
+Doconexent,drug2gene,RXRB
+Doconexent,drug2gene,RXRG
+Cilomilast,drug2gene,PDE4D
+Cilomilast,drug2gene,PDE4B
+Dequalinium,drug2gene,XIAP
+Citric acid,drug2gene,AKR1B1
+Niflumic acid,drug2gene,PLA2G1B
+Niflumic acid,drug2gene,PTGS2
+Estriol,drug2gene,ESR1
+Estrone sulfate,drug2gene,ESR1
+Quinestrol,drug2gene,ESR1
+Fleroxacin,drug2gene,TOP2A
+Corticosterone,drug2gene,HSD11B1
+Corticosterone,drug2gene,NCOA1
+Corticosterone,drug2gene,NR3C2
+Nimesulide,drug2gene,PTGS2
+Suramin,drug2gene,P2RY2
+Suramin,drug2gene,SIRT5
+Suramin,drug2gene,FSHR
+Tanaproget,drug2gene,PGR
+Rapacuronium,drug2gene,CHRM2
+Maraviroc,drug2gene,CCR5
+Clofedanol,drug2gene,HRH1
+Cyproterone acetate,drug2gene,AR
+Debrisoquine,drug2gene,SLC6A2
+Flunarizine,drug2gene,CACNA1G
+Flunarizine,drug2gene,CACNA1H
+Flunarizine,drug2gene,CACNA1I
+Flunarizine,drug2gene,CALM1
+Fluspirilene,drug2gene,DRD2
+Mepenzolate,drug2gene,CHRM1
+Mepenzolate,drug2gene,CHRM3
+Tetrabenazine,drug2gene,SLC18A2
+Ixabepilone,drug2gene,TUBB3
+Celiprolol,drug2gene,ADRB1
+Celiprolol,drug2gene,ADRB2
+Roxadustat,drug2gene,EGLN1
+Roxadustat,drug2gene,EGLN2
+Roxadustat,drug2gene,EGLN3
+Febuxostat,drug2gene,XDH
+Dronedarone,drug2gene,ADRA1A
+Dronedarone,drug2gene,ADRA1B
+Dronedarone,drug2gene,ADRA1D
+Dronedarone,drug2gene,ADRA2A
+Dronedarone,drug2gene,ADRA2B
+Dronedarone,drug2gene,ADRA2C
+Dronedarone,drug2gene,KCNH2
+Dronedarone,drug2gene,CACNA1C
+Dronedarone,drug2gene,CACNA1D
+Dronedarone,drug2gene,CACNA1F
+Dronedarone,drug2gene,CACNA1S
+Dronedarone,drug2gene,CACNB1
+Dronedarone,drug2gene,CACNB2
+Dronedarone,drug2gene,CACNB3
+Dronedarone,drug2gene,CACNB4
+Dronedarone,drug2gene,KCNK2
+Dronedarone,drug2gene,SCN5A
+Dronedarone,drug2gene,KCNJ3
+Dronedarone,drug2gene,KCNQ1
+Dronedarone,drug2gene,KCNJ12
+Dronedarone,drug2gene,SLC8A1
+Dronedarone,drug2gene,KCND3
+Nebivolol,drug2gene,ADRB1
+Omacetaxine mepesuccinate,drug2gene,RPL3
+Nilotinib,drug2gene,ABL1
+Vildagliptin,drug2gene,DPP4
+Voglibose,drug2gene,MGAM
+Enoximone,drug2gene,PDE3A
+Bepotastine,drug2gene,HRH1
+Vapreotide,drug2gene,SSTR2
+Vapreotide,drug2gene,SSTR5
+Pegaptanib,drug2gene,VEGFA
+Milnacipran,drug2gene,SLC6A4
+Milnacipran,drug2gene,SLC6A2
+Ximelagatran,drug2gene,F2
+Galiximab,drug2gene,CD80
+Tesmilifene,drug2gene,ABCB1
+Flibanserin,drug2gene,HTR1A
+Flibanserin,drug2gene,HTR2A
+Flibanserin,drug2gene,DRD4
+Permethrin,drug2gene,SCN1A
+Afamelanotide,drug2gene,MC1R
+Ospemifene,drug2gene,ESR1
+Crofelemer,drug2gene,ANO1
+Crofelemer,drug2gene,CFTR
+Tamibarotene,drug2gene,RARA
+Tamibarotene,drug2gene,RARB
+Iloperidone,drug2gene,HTR2A
+Iloperidone,drug2gene,DRD2
+Lofexidine,drug2gene,ADRA2A
+Epratuzumab,drug2gene,CD22
+Lucanthone,drug2gene,TOP2A
+Lucanthone,drug2gene,APEX1
+Lucanthone,drug2gene,TOP1
+Belinostat,drug2gene,HDAC1
+Indacaterol,drug2gene,ADRB2
+Abaloparatide,drug2gene,PTH1R
+Ganaxolone,drug2gene,GABRA1
+AN-9,drug2gene,BCL2
+AN-9,drug2gene,CASP8
+1D09C3,drug2gene,HLA-DRA
+Cobimetinib,drug2gene,MAP2K1
+Methsuximide,drug2gene,CACNA1G
+Gallium nitrate,drug2gene,RRM2
+Gallium nitrate,drug2gene,ATP6V1B2
+Gallium nitrate,drug2gene,BGLAP
+Gallium nitrate,drug2gene,IL1B
+Ecabet,drug2gene,NOXO1
+Ibudilast,drug2gene,PDE4A
+Ibudilast,drug2gene,PDE4B
+Ibudilast,drug2gene,PDE4C
+Rotigotine,drug2gene,DRD3
+Rotigotine,drug2gene,DRD4
+Rotigotine,drug2gene,DRD2
+Ecallantide,drug2gene,KLKB1
+Pimavanserin,drug2gene,HTR2A
+Romiplostim,drug2gene,MPL
+Dexlansoprazole,drug2gene,ATP4B
+Dexlansoprazole,drug2gene,ATP4A
+Histamine,drug2gene,HRH1
+Histamine,drug2gene,HRH2
+Histamine,drug2gene,HRH3
+Iodine,drug2gene,SLC5A5
+Pimagedine,drug2gene,NOS2
+Pimagedine,drug2gene,AOC1
+Palovarotene,drug2gene,RARG
+AMG-131,drug2gene,PPARG
+Brivaracetam,drug2gene,SV2A
+Brivaracetam,drug2gene,SCN1A
+TG100-115,drug2gene,PIK3CD
+TG100-115,drug2gene,PIK3CG
+Ramucirumab,drug2gene,KDR
+Bedoradrine,drug2gene,ADRB2
+Farletuzumab,drug2gene,FOLR1
+Teverelix,drug2gene,GNRHR
+Sodium stibogluconate,drug2gene,TOP1
+Levoketoconazole,drug2gene,CYP17A1
+Levoketoconazole,drug2gene,CYP11B1
+Levoketoconazole,drug2gene,CYP11B2
+Levoketoconazole,drug2gene,CYP11A1
+Apremilast,drug2gene,PDE4
+Ustekinumab,drug2gene,IL12B
+Gantacurium,drug2gene,CHRNA3
+Trastuzumab emtansine,drug2gene,ERBB2
+Thrombomodulin Alfa,drug2gene,F2
+Abiraterone,drug2gene,CYP17A1
+Parathyroid hormone,drug2gene,PTH2R
+Seletracetam,drug2gene,SV2A
+Seletracetam,drug2gene,CACNA1B
+Inotuzumab ozogamicin,drug2gene,CD22
+Obeticholic acid,drug2gene,NR1H4
+Aldoxorubicin,drug2gene,TOP2A
+Olaratumab,drug2gene,PDGFRA
+CTS-21166,drug2gene,BACE1
+Lumateperone,drug2gene,SLC6A4
+Lumateperone,drug2gene,GRIN2B
+Lumateperone,drug2gene,HTR2A
+Lumateperone,drug2gene,DRD2
+Tapinarof,drug2gene,AHR
+Dimethylcurcumin,drug2gene,AR
+Tirbanibulin,drug2gene,TUBB
+Tirbanibulin,drug2gene,SRC
+Sertindole,drug2gene,DRD2
+Sertindole,drug2gene,HTR2A
+Sertindole,drug2gene,HTR2C
+Sertindole,drug2gene,HTR6
+Acetylcysteine,drug2gene,GSS
+Acetylcysteine,drug2gene,SLC7A11
+Nylidrin,drug2gene,IFNAR2
+Pentaerythritol tetranitrate,drug2gene,HBA1
+Pentaerythritol tetranitrate,drug2gene,HBB
+Rimonabant,drug2gene,CNR1
+Canakinumab,drug2gene,IL1B
+Romidepsin,drug2gene,HDAC1
+Romidepsin,drug2gene,HDAC2
+Ipilimumab,drug2gene,CTLA4
+Zosuquidar,drug2gene,ABCB1
+Icatibant,drug2gene,BDKRB2
+Lasofoxifene,drug2gene,ESR1
+Lasofoxifene,drug2gene,ESR2
+Alogliptin,drug2gene,DPP4
+Tapentadol,drug2gene,OPRM1
+Tapentadol,drug2gene,SLC6A2
+Silodosin,drug2gene,ADRA1A
+Silodosin,drug2gene,ADRA1D
+Silodosin,drug2gene,ADRA1B
+Prasugrel,drug2gene,P2RY12
+Tolvaptan,drug2gene,AVPR2
+Regadenoson,drug2gene,ADORA2A
+Asenapine,drug2gene,HTR2A
+Asenapine,drug2gene,DRD2
+Vernakalant,drug2gene,SCN5A
+Vernakalant,drug2gene,KCNA5
+Vernakalant,drug2gene,KCND3
+Rivaroxaban,drug2gene,F10
+Nalmefene,drug2gene,OPRK1
+Nalmefene,drug2gene,OPRD1
+Nalmefene,drug2gene,OPRM1
+Ridaforolimus,drug2gene,MTOR
+Avanafil,drug2gene,PDE5A
+Eflornithine,drug2gene,ODC1
+Droxidopa,drug2gene,ADRA1A
+Droxidopa,drug2gene,ADRA1B
+Droxidopa,drug2gene,ADRA1D
+Droxidopa,drug2gene,ADRA2A
+Droxidopa,drug2gene,ADRA2B
+Droxidopa,drug2gene,ADRA2C
+Droxidopa,drug2gene,ADRB1
+Droxidopa,drug2gene,ADRB2
+Droxidopa,drug2gene,ADRB3
+Udenafil,drug2gene,PDE5A
+Sitaxentan,drug2gene,EDNRA
+Sulodexide,drug2gene,SERPIND1
+Sulodexide,drug2gene,SERPINC1
+Tocilizumab,drug2gene,IL6R
+Alvimopan,drug2gene,OPRM1
+Torcetrapib,drug2gene,CETP
+Levocetirizine,drug2gene,HRH1
+Ziconotide,drug2gene,CACNA1B
+Temsirolimus,drug2gene,MTOR
+Amisulpride,drug2gene,HTR7
+Amisulpride,drug2gene,HTR2A
+Amisulpride,drug2gene,DRD2
+Amisulpride,drug2gene,DRD3
+Dapagliflozin,drug2gene,SLC5A2
+Elotuzumab,drug2gene,SLAMF7
+Saxagliptin,drug2gene,DPP4
+Pertuzumab,drug2gene,ERBB2
+Bazedoxifene,drug2gene,ESR1
+Ambrisentan,drug2gene,EDNRA
+Human C1-esterase inhibitor,drug2gene,C1R
+Human C1-esterase inhibitor,drug2gene,C1S
+Human C1-esterase inhibitor,drug2gene,KLKB1
+Human C1-esterase inhibitor,drug2gene,F12
+Human C1-esterase inhibitor,drug2gene,F11
+Human C1-esterase inhibitor,drug2gene,PLAT
+Oxymetholone,drug2gene,AR
+Armodafinil,drug2gene,SLC6A3
+Talnetant,drug2gene,TACR3
+Tyloxapol,drug2gene,LPL
+Cangrelor,drug2gene,P2RY12
+Lonafarnib,drug2gene,FNTA
+Lonafarnib,drug2gene,FNTB
+Prucalopride,drug2gene,HTR4
+Minodronic acid,drug2gene,FDPS
+Minodronic acid,drug2gene,GGPS1
+Labradimil,drug2gene,BDKRB2
+Adipiplon,drug2gene,GABRA1
+Pazopanib,drug2gene,FLT1
+Pazopanib,drug2gene,KDR
+Pazopanib,drug2gene,FLT4
+Pazopanib,drug2gene,PDGFRA
+Pazopanib,drug2gene,PDGFRB
+Pazopanib,drug2gene,KIT
+Agomelatine,drug2gene,HTR2C
+Agomelatine,drug2gene,MTNR1A
+Agomelatine,drug2gene,MTNR1B
+Midostaurin,drug2gene,PRKCA
+Midostaurin,drug2gene,KDR
+Midostaurin,drug2gene,PDGFRA
+Midostaurin,drug2gene,PDGFRB
+Midostaurin,drug2gene,FLT3
+Reslizumab,drug2gene,IL5
+Panobinostat,drug2gene,HDAC1
+Apixaban,drug2gene,F10
+Teplizumab,drug2gene,CD3E
+Catumaxomab,drug2gene,FCGR2A
+Catumaxomab,drug2gene,FCGR3A
+Catumaxomab,drug2gene,FCGR3B
+Catumaxomab,drug2gene,CD3E
+Catumaxomab,drug2gene,FCGR1A
+Mepolizumab,drug2gene,IL5
+Bosutinib,drug2gene,BCR
+Bosutinib,drug2gene,ABL1
+Axitinib,drug2gene,FLT1
+Axitinib,drug2gene,KDR
+Axitinib,drug2gene,FLT4
+Dalfampridine,drug2gene,KCNA1
+Dalfampridine,drug2gene,KCNA2
+Dalfampridine,drug2gene,KCNA3
+Dalfampridine,drug2gene,KCNA4
+Dalfampridine,drug2gene,KCNA5
+Dalfampridine,drug2gene,KCNA6
+Dalfampridine,drug2gene,KCNA7
+Dalfampridine,drug2gene,KCNA10
+Dalfampridine,drug2gene,KCNB1
+Dalfampridine,drug2gene,KCNB2
+Dalfampridine,drug2gene,KCNC1
+Dalfampridine,drug2gene,KCNC2
+Dalfampridine,drug2gene,KCNC3
+Dalfampridine,drug2gene,KCND1
+Dalfampridine,drug2gene,KCND2
+Dalfampridine,drug2gene,KCND3
+Denosumab,drug2gene,TNFSF11
+Ofatumumab,drug2gene,MS4A1
+Safinamide,drug2gene,MAOB
+Liraglutide,drug2gene,GLP1R
+Golimumab,drug2gene,TNF
+Belatacept,drug2gene,CD86
+Belatacept,drug2gene,CD80
+Vilazodone,drug2gene,SLC6A4
+Sipuleucel-T,drug2gene,ACPP
+Mepyramine,drug2gene,HRH1
+Mevastatin,drug2gene,HMGCR
+Xylometazoline,drug2gene,ADRA2A
+Xylometazoline,drug2gene,ADRA2B
+Xylometazoline,drug2gene,ADRA1A
+Dabigatran etexilate,drug2gene,F2
+Betahistine,drug2gene,HRH1
+Betahistine,drug2gene,HRH3
+Degarelix,drug2gene,GNRHR
+Desvenlafaxine,drug2gene,SLC6A2
+Desvenlafaxine,drug2gene,SLC6A4
+Dexmethylphenidate,drug2gene,SLC6A3
+Dexmethylphenidate,drug2gene,SLC6A2
+Fesoterodine,drug2gene,CHRM3
+Isometheptene,drug2gene,ADRA1A
+Isometheptene,drug2gene,SLC18A2
+Levonordefrin,drug2gene,ADRA2A
+Methacholine,drug2gene,CHRM3
+Methacholine,drug2gene,CHRM2
+Methyltestosterone,drug2gene,AR
+Naphazoline,drug2gene,ADRA2A
+Naphazoline,drug2gene,ADRA1A
+Nilvadipine,drug2gene,CACNA1C
+Nilvadipine,drug2gene,CACNA2D1
+Nilvadipine,drug2gene,CACNB2
+Norelgestromin,drug2gene,PGR
+Propylhexedrine,drug2gene,SLC18A2
+Fospropofol,drug2gene,GABRB2
+Fospropofol,drug2gene,GABRB3
+Stanozolol,drug2gene,AR
+Buserelin,drug2gene,LHCGR
+Buserelin,drug2gene,GNRHR
+Lornoxicam,drug2gene,PTGS1
+Lornoxicam,drug2gene,PTGS2
+Gestodene,drug2gene,PGR
+Bafilomycin A1,drug2gene,ATP6V1A
+Bafilomycin B1,drug2gene,ATP6V1A
+Aceclofenac,drug2gene,PTGS2
+Aceclofenac,drug2gene,PTGS1
+Ketobemidone,drug2gene,OPRM1
+Ketobemidone,drug2gene,OPRK1
+Ketobemidone,drug2gene,OPRD1
+Drotaverine,drug2gene,PDE4A
+Chymopapain,drug2gene,PRG2
+Danaparoid,drug2gene,SERPINC1
+Betaine,drug2gene,BHMT
+Tetryzoline,drug2gene,ADRA1A
+Cabazitaxel,drug2gene,TUBA4A
+Cabazitaxel,drug2gene,TUBB1
+Human calcitonin,drug2gene,ACTN1
+Capsaicin,drug2gene,TRPV1
+Carglumic acid,drug2gene,CPS1
+Dalteparin,drug2gene,SERPINC1
+Dalteparin,drug2gene,VEGFA
+Dalteparin,drug2gene,TFPI
+Difluprednate,drug2gene,NR3C1
+Ganirelix,drug2gene,GNRHR
+Hexocyclium,drug2gene,CHRM3
+Histrelin,drug2gene,GNRHR
+Methylnaltrexone,drug2gene,OPRM1
+Plerixafor,drug2gene,CXCR4
+Pralatrexate,drug2gene,DHFR
+Pralatrexate,drug2gene,FPGS
+Protokylol,drug2gene,ADRB2
+Tinzaparin,drug2gene,SERPINC1
+Triptorelin,drug2gene,GNRHR
+Gosogliptin,drug2gene,DPP4
+Parecoxib,drug2gene,PTGS2
+Antazoline,drug2gene,HRH1
+Chloropyramine,drug2gene,HRH1
+Dimetindene,drug2gene,HRH1
+Dimetindene,drug2gene,CHRM2
+Isothipendyl,drug2gene,HRH1
+Nandrolone decanoate,drug2gene,AR
+Metiamide,drug2gene,HRH2
+Roxatidine acetate,drug2gene,HRH2
+Bopindolol,drug2gene,ADRB1
+Bupranolol,drug2gene,ADRB1
+Dichloroacetic acid,drug2gene,PDK1
+Cinitapride,drug2gene,HTR1A
+Cinitapride,drug2gene,HTR2A
+Nadroparin,drug2gene,SERPINC1
+Triflusal,drug2gene,PTGS1
+Triflusal,drug2gene,NFKB1
+Triflusal,drug2gene,NOS2
+Triflusal,drug2gene,PDE10A
+Lurasidone,drug2gene,DRD2
+Lurasidone,drug2gene,HTR2A
+Ticagrelor,drug2gene,P2RY12
+Hyaluronic acid,drug2gene,CD44
+Hyaluronic acid,drug2gene,ICAM1
+Hyaluronic acid,drug2gene,HMMR
+Tafluprost,drug2gene,PTGFR
+Ivacaftor,drug2gene,CFTR
+Azilsartan medoxomil,drug2gene,AGTR1
+Lomitapide,drug2gene,MTTP
+Vismodegib,drug2gene,SMO
+Agmatine,drug2gene,ADRA2C
+Agmatine,drug2gene,NISCH
+Agmatine,drug2gene,CHRNA1
+Agmatine,drug2gene,GRIN1
+Agmatine,drug2gene,KCNJ1
+Agmatine,drug2gene,CACNA1B
+Agmatine,drug2gene,ASIC3
+Pitavastatin,drug2gene,HMGCR
+Crizotinib,drug2gene,ALK
+Crizotinib,drug2gene,MET
+Crizotinib,drug2gene,ROS1
+Crizotinib,drug2gene,MST1R
+Ulipristal,drug2gene,PGR
+Ulipristal,drug2gene,NR3C1
+Fingolimod,drug2gene,S1PR5
+Fingolimod,drug2gene,S1PR1
+Fingolimod,drug2gene,S1PR3
+Tesamorelin,drug2gene,GHRHR
+Brentuximab vedotin,drug2gene,TNFRSF8
+Cabozantinib,drug2gene,MET
+Cabozantinib,drug2gene,KDR
+Cabozantinib,drug2gene,RET
+Ruxolitinib,drug2gene,JAK2
+Ruxolitinib,drug2gene,JAK1
+Ruxolitinib,drug2gene,JAK3
+Ruxolitinib,drug2gene,TYK2
+Belimumab,drug2gene,TNFSF13B
+Vemurafenib,drug2gene,BRAF
+Linagliptin,drug2gene,DPP4
+Perampanel,drug2gene,GRIA1
+Aflibercept,drug2gene,VEGFA
+Aflibercept,drug2gene,PGF
+Aflibercept,drug2gene,VEGFB
+Ocriplasmin,drug2gene,FN1
+Carfilzomib,drug2gene,PSMB5
+Carfilzomib,drug2gene,PSMB8
+Carfilzomib,drug2gene,PSMB1
+Carfilzomib,drug2gene,PSMB9
+Carfilzomib,drug2gene,PSMB2
+Carfilzomib,drug2gene,PSMB10
+Linaclotide,drug2gene,GUCY2C
+Arbaclofen,drug2gene,GABBR1
+Arbaclofen,drug2gene,GABBR2
+Arbaclofen Placarbil,drug2gene,GABBR1
+Arbaclofen Placarbil,drug2gene,GABBR2
+Mirabegron,drug2gene,ADRB3
+Peginesatide,drug2gene,EPOR
+Tofacitinib,drug2gene,JAK1
+Tofacitinib,drug2gene,JAK2
+Tofacitinib,drug2gene,JAK3
+Regorafenib,drug2gene,FLT1
+Regorafenib,drug2gene,KDR
+Regorafenib,drug2gene,FLT4
+Regorafenib,drug2gene,KIT
+Regorafenib,drug2gene,PDGFRA
+Regorafenib,drug2gene,PDGFRB
+Regorafenib,drug2gene,FGFR1
+Regorafenib,drug2gene,FGFR2
+Regorafenib,drug2gene,TEK
+Regorafenib,drug2gene,DDR2
+Regorafenib,drug2gene,NTRK1
+Regorafenib,drug2gene,EPHA2
+Regorafenib,drug2gene,RAF1
+Regorafenib,drug2gene,BRAF
+Regorafenib,drug2gene,MAPK11
+Regorafenib,drug2gene,FRK
+Regorafenib,drug2gene,ABL1
+Regorafenib,drug2gene,RET
+Aclidinium,drug2gene,CHRM1
+Aclidinium,drug2gene,CHRM2
+Aclidinium,drug2gene,CHRM3
+Aclidinium,drug2gene,CHRM4
+Aclidinium,drug2gene,CHRM5
+Enzalutamide,drug2gene,AR
+Teduglutide,drug2gene,GLP2R
+Ponatinib,drug2gene,ABL1
+Ponatinib,drug2gene,BCR
+Certolizumab pegol,drug2gene,TNF
+Fluticasone furoate,drug2gene,NR3C1
+Canagliflozin,drug2gene,SLC5A2
+Dimethyl fumarate,drug2gene,KEAP1
+Pomalidomide,drug2gene,CRBN
+Pomalidomide,drug2gene,TNF
+Pomalidomide,drug2gene,PTGS2
+Trametinib,drug2gene,MAP2K1
+Trametinib,drug2gene,MAP2K2
+Dabrafenib,drug2gene,BRAF
+Dabrafenib,drug2gene,RAF1
+Aleglitazar,drug2gene,PPARA
+Aleglitazar,drug2gene,PPARG
+Afatinib,drug2gene,EGFR
+Afatinib,drug2gene,ERBB2
+Afatinib,drug2gene,ERBB4
+Levomilnacipran,drug2gene,SLC6A4
+Levomilnacipran,drug2gene,SLC6A2
+Perospirone,drug2gene,HTR2A
+Perospirone,drug2gene,DRD2
+Perospirone,drug2gene,HTR1A
+Riociguat,drug2gene,GUCY1A2
+Macitentan,drug2gene,EDNRA
+Obinutuzumab,drug2gene,MS4A1
+Chlorcyclizine,drug2gene,HRH1
+Inositol nicotinate,drug2gene,HCAR3
+Inositol nicotinate,drug2gene,HCAR2
+Ifenprodil,drug2gene,GRIN2B
+Ifenprodil,drug2gene,GRIN1
+Hexamethonium,drug2gene,CHRNA2
+Gemeprost,drug2gene,PTGER3
+Dimetacrine,drug2gene,ACHE
+Captodiame,drug2gene,HTR2C
+Captodiame,drug2gene,SIGMAR1
+Captodiame,drug2gene,DRD3
+Butriptyline,drug2gene,SLC6A4
+Butriptyline,drug2gene,HRH1
+Butriptyline,drug2gene,HTR2A
+Brotizolam,drug2gene,GABRA1
+Bromopride,drug2gene,DRD2
+Aliskiren,drug2gene,REN
+Secukinumab,drug2gene,IL17A
+Vorapaxar,drug2gene,F2R
+Vedolizumab,drug2gene,ITGA4
+Vedolizumab,drug2gene,ITGB7
+Suvorexant,drug2gene,HCRTR1
+Suvorexant,drug2gene,HCRTR2
+Nivolumab,drug2gene,PDCD1
+Siltuximab,drug2gene,IL6
+Pembrolizumab,drug2gene,PDCD1
+Empagliflozin,drug2gene,SLC5A2
+Eliglustat,drug2gene,UGCG
+Albiglutide,drug2gene,GLP1R
+Dulaglutide,drug2gene,GLP1R
+Metreleptin,drug2gene,LEPR
+Finafloxacin,drug2gene,TOP2A
+Netupitant,drug2gene,TACR1
+Naloxegol,drug2gene,OPRM1
+Blinatumomab,drug2gene,CD19
+Blinatumomab,drug2gene,CD3D
+Ibrutinib,drug2gene,BTK
+Idelalisib,drug2gene,PIK3CD
+Atosiban,drug2gene,OXTR
+Cannabidiol,drug2gene,CNR1
+Ceritinib,drug2gene,ALK
+Cobicistat,drug2gene,CYP3A4
+Corifollitropin alfa,drug2gene,FSHR
+Corticorelin ovine triflutate,drug2gene,CRHR1
+Vortioxetine,drug2gene,SLC6A4
+Vortioxetine,drug2gene,HTR3A
+Vortioxetine,drug2gene,HTR7
+Vortioxetine,drug2gene,HTR1B
+Vortioxetine,drug2gene,HTR1A
+Tibolone,drug2gene,ESR1
+Tasimelteon,drug2gene,MTNR1A
+Tasimelteon,drug2gene,MTNR1B
+Palbociclib,drug2gene,CDK4
+Palbociclib,drug2gene,CDK6
+Olaparib,drug2gene,PARP1
+Olaparib,drug2gene,PARP2
+Olaparib,drug2gene,PARP3
+Edoxaban,drug2gene,F10
+Umeclidinium,drug2gene,CHRM2
+Umeclidinium,drug2gene,CHRM3
+Lenvatinib,drug2gene,FLT1
+Lenvatinib,drug2gene,KDR
+Lenvatinib,drug2gene,FLT4
+Lenvatinib,drug2gene,FGFR1
+Lenvatinib,drug2gene,FGFR2
+Lenvatinib,drug2gene,FGFR3
+Lenvatinib,drug2gene,FGFR4
+Lenvatinib,drug2gene,PDGFRA
+Lenvatinib,drug2gene,RET
+Lenvatinib,drug2gene,KIT
+Nintedanib,drug2gene,FLT1
+Nintedanib,drug2gene,KDR
+Nintedanib,drug2gene,FLT4
+Nintedanib,drug2gene,PDGFRA
+Nintedanib,drug2gene,PDGFRB
+Nintedanib,drug2gene,FGFR1
+Nintedanib,drug2gene,FGFR2
+Nintedanib,drug2gene,FGFR3
+Olodaterol,drug2gene,ADRB2
+Vilanterol,drug2gene,ADRB2
+Tetracaine,drug2gene,RYR1
+Tetracaine,drug2gene,RYR2
+Tetracaine,drug2gene,SCN1A
+Amylocaine,drug2gene,SCN1A
+Trimebutine,drug2gene,OPRM1
+Trimebutine,drug2gene,CACNA1C
+Trimebutine,drug2gene,KCNMA1
+Trimebutine,drug2gene,CHRM1
+Trimebutine,drug2gene,CHRM2
+Trimebutine,drug2gene,CHRM3
+Trimebutine,drug2gene,CHRM4
+Pinaverium,drug2gene,CACNA1S
+Tixocortol,drug2gene,NR3C1
+Tixocortol,drug2gene,HDAC2
+Xanthinol,drug2gene,NNT
+Xanthinol,drug2gene,GAPDH
+Xanthinol,drug2gene,IDH3A
+Xanthinol,drug2gene,OGDH
+Xanthinol,drug2gene,MDH2
+Difluocortolone,drug2gene,ANXA3
+Difluocortolone,drug2gene,NR3C1
+Somatrem,drug2gene,GHR
+Somatrem,drug2gene,IGF1R
+Somatostatin,drug2gene,SSTR1
+Somatostatin,drug2gene,SSTR2
+Somatostatin,drug2gene,SSTR3
+Somatostatin,drug2gene,SSTR4
+Somatostatin,drug2gene,SSTR5
+Ancestim,drug2gene,KIT
+Methoxy polyethylene glycol-epoetin beta,drug2gene,EPOR
+Simoctocog alfa,drug2gene,VWF
+Turoctocog alfa,drug2gene,F9
+Turoctocog alfa,drug2gene,F10
+Turoctocog alfa,drug2gene,F2
+Nitrous acid,drug2gene,HBA1
+Nitrous acid,drug2gene,HBB
+Calcium carbimide,drug2gene,ALDH3B2
+Stiripentol,drug2gene,GABRA1
+Stiripentol,drug2gene,LDHA
+Stiripentol,drug2gene,LDHB
+Eslicarbazepine acetate,drug2gene,P2RX4
+Zucapsaicin,drug2gene,TRPV1
+Dienogest,drug2gene,PGR
+Dienogest,drug2gene,AR
+Medrogestone,drug2gene,PGR
+Chorionic Gonadotropin (Human),drug2gene,LHCGR
+Brexpiprazole,drug2gene,HTR1A
+Brexpiprazole,drug2gene,DRD2
+Brexpiprazole,drug2gene,HTR2A
+Brexpiprazole,drug2gene,ADRA2C
+Brexpiprazole,drug2gene,ADRA1B
+Chromic chloride,drug2gene,INSR
+Ferric pyrophosphate,drug2gene,FTL
+Ferric pyrophosphate,drug2gene,HBA1
+Ferric pyrophosphate,drug2gene,HBB
+Florbetaben (18F),drug2gene,APP
+Florbetapir (18F),drug2gene,APP
+Flutemetamol (18F),drug2gene,APP
+Etizolam,drug2gene,GABRA1
+Dosulepin,drug2gene,HTR1A
+Dosulepin,drug2gene,HTR2A
+Dosulepin,drug2gene,HRH1
+Dosulepin,drug2gene,CHRM1
+Dosulepin,drug2gene,CHRM2
+Dosulepin,drug2gene,CHRM3
+Dosulepin,drug2gene,CHRM4
+Dosulepin,drug2gene,CHRM5
+Dosulepin,drug2gene,ADRA2A
+Dosulepin,drug2gene,ADRA1A
+Dosulepin,drug2gene,SLC6A2
+Dosulepin,drug2gene,SLC6A4
+Butyrfentanyl,drug2gene,OPRM1
+Viloxazine,drug2gene,SLC6A2
+Viloxazine,drug2gene,HTR2B
+Viloxazine,drug2gene,HTR2C
+Etoperidone,drug2gene,HTR2A
+Etoperidone,drug2gene,HTR2C
+Lorpiprazole,drug2gene,HTR2A
+Lorpiprazole,drug2gene,HTR2C
+Lorpiprazole,drug2gene,ADRA1A
+Lorpiprazole,drug2gene,ADRA2A
+Lorpiprazole,drug2gene,HRH1
+Lorpiprazole,drug2gene,SLC6A4
+Lobeglitazone,drug2gene,PPARG
+Ciglitazone,drug2gene,PPARG
+Cirazoline,drug2gene,ADRA1A
+Cirazoline,drug2gene,ADRA1B
+Cirazoline,drug2gene,ADRA1D
+Cirazoline,drug2gene,ADRA2A
+Arotinolol,drug2gene,ADRB1
+Arotinolol,drug2gene,ADRB2
+Arotinolol,drug2gene,ADRA1A
+Moxisylyte,drug2gene,ADRA1A
+Pholcodine,drug2gene,OPRM1
+Pholcodine,drug2gene,OPRK1
+Limaprost,drug2gene,PTGER2
+Loxoprofen,drug2gene,PTGS2
+Loxoprofen,drug2gene,PTGS1
+Dexibuprofen,drug2gene,PTGS2
+Droxicam,drug2gene,PTGS1
+Droxicam,drug2gene,PTGS2
+Tolfenamic acid,drug2gene,PTGS1
+Tolfenamic acid,drug2gene,PTGS2
+Nicorandil,drug2gene,ABCC9
+Blonanserin,drug2gene,DRD2
+Blonanserin,drug2gene,DRD3
+Blonanserin,drug2gene,HTR2A
+Melperone,drug2gene,DRD2
+Zotepine,drug2gene,DRD1
+Zotepine,drug2gene,DRD2
+Zotepine,drug2gene,HTR2A
+Zotepine,drug2gene,HTR7
+Zotepine,drug2gene,SLC6A2
+Zotepine,drug2gene,SLC6A4
+Barnidipine,drug2gene,CACNA1C
+Conestat alfa,drug2gene,C1R
+Conestat alfa,drug2gene,C1S
+Conestat alfa,drug2gene,KLKB1
+Conestat alfa,drug2gene,F12
+Conestat alfa,drug2gene,F2
+Conestat alfa,drug2gene,F11
+Conestat alfa,drug2gene,PLAT
+Aranidipine,drug2gene,CACNA1C
+Aranidipine,drug2gene,CACNA1D
+Aranidipine,drug2gene,CACNA1F
+Aranidipine,drug2gene,CACNA1S
+Benidipine,drug2gene,CACNA1C
+Benidipine,drug2gene,CACNA1B
+Benidipine,drug2gene,CACNA1G
+Cilnidipine,drug2gene,CACNA1B
+Cilnidipine,drug2gene,CACNA1C
+Efonidipine,drug2gene,CACNA1C
+Efonidipine,drug2gene,CACNG1
+Efonidipine,drug2gene,CACNA1G
+Efonidipine,drug2gene,CACNA1H
+Lacidipine,drug2gene,CACNA1C
+Manidipine,drug2gene,CACNA1C
+Manidipine,drug2gene,CACNA1G
+Methylene blue,drug2gene,GUCY1A2
+Methylene blue,drug2gene,NOS1
+Moxonidine,drug2gene,ADRA2A
+Moxonidine,drug2gene,NISCH
+Tegafur,drug2gene,TYMS
+Bemiparin,drug2gene,F10
+Imidafenacin,drug2gene,CHRM1
+Imidafenacin,drug2gene,CHRM2
+Imidafenacin,drug2gene,CHRM3
+Lixisenatide,drug2gene,GLP1R
+Technetium Tc-99m tilmanocept,drug2gene,MRC1
+Ubidecarenone,drug2gene,NDUFV3
+Ubidecarenone,drug2gene,SDHA
+Eluxadoline,drug2gene,OPRM1
+Eluxadoline,drug2gene,OPRD1
+Eluxadoline,drug2gene,OPRK1
+Doxofylline,drug2gene,PDE2A
+Doxofylline,drug2gene,ADRB2
+Fimasartan,drug2gene,AGTR1
+Lumacaftor,drug2gene,CFTR
+Trapidil,drug2gene,PDE1A
+Propacetamol,drug2gene,PTGS1
+Propacetamol,drug2gene,PTGS2
+Propacetamol,drug2gene,TRPV1
+Propacetamol,drug2gene,CNR1
+Tianeptine,drug2gene,OPRM1
+Rolapitant,drug2gene,TACR1
+Sacubitril,drug2gene,MME
+Butylscopolamine,drug2gene,CHRM3
+Alirocumab,drug2gene,PCSK9
+Evolocumab,drug2gene,PCSK9
+Catridecacog,drug2gene,F13B
+Synthetic Conjugated Estrogens, A,drug2gene,ESR1
+Synthetic Conjugated Estrogens, B,drug2gene,ESR1
+Tegafur-uracil,drug2gene,DPYD
+Tegafur-uracil,drug2gene,TYMS
+Antihemophilic factor (recombinant), PEGylated,drug2gene,VWF
+Osimertinib,drug2gene,EGFR
+Iopodic acid,drug2gene,DIO3
+Seractide acetate,drug2gene,MC2R
+Technetium Tc-99m nofetumomab merpentan,drug2gene,EPCAM
+Technetium Tc-99m nofetumomab merpentan,drug2gene,MS4A1
+Propoxycaine,drug2gene,SCN1A
+Tipiracil,drug2gene,TYMP
+Pramocaine,drug2gene,SCN1A
+Levobetaxolol,drug2gene,ADRB1
+Rauwolfia serpentina root,drug2gene,SLC18A2
+Polyestradiol phosphate,drug2gene,ESR1
+Norgestrel,drug2gene,PGR
+Norgestrel,drug2gene,SRD5A1
+Isosorbide,drug2gene,GUCY1A1
+Potassium perchlorate,drug2gene,SLC5A5
+Protirelin,drug2gene,TRHR
+Soybean oil,drug2gene,PPARA
+Insulin beef,drug2gene,INSR
+Glycerin,drug2gene,PPARD
+Sodium sulfate,drug2gene,CA2
+Sodium sulfate,drug2gene,CA1
+Enalaprilat,drug2gene,ACE
+Acrivastine,drug2gene,HRH1
+Sodium ferric gluconate complex,drug2gene,FTL
+Sodium ferric gluconate complex,drug2gene,HBB
+Hydroquinone,drug2gene,TYR
+Secretin human,drug2gene,SCTR
+Thonzonium,drug2gene,ATP6V1C1
+Dexchlorpheniramine maleate,drug2gene,HRH1
+Necitumumab,drug2gene,EGFR
+Insulin degludec,drug2gene,INSR
+Omega-3-carboxylic acids,drug2gene,DGAT2
+Omega-3-carboxylic acids,drug2gene,HSD17B10
+Omega-3-carboxylic acids,drug2gene,ECHS1
+Omega-3-carboxylic acids,drug2gene,HADH
+Omega-3-carboxylic acids,drug2gene,ELOVL4
+Omega-3-carboxylic acids,drug2gene,LPL
+Foreskin fibroblast (neonatal),drug2gene,FLT1
+Foreskin keratinocyte (neonatal),drug2gene,FGF1
+Foreskin keratinocyte (neonatal),drug2gene,EGFR
+Foreskin keratinocyte (neonatal),drug2gene,CSF2RA
+Foreskin keratinocyte (neonatal),drug2gene,IL1B
+Foreskin keratinocyte (neonatal),drug2gene,IL6
+Foreskin keratinocyte (neonatal),drug2gene,IFNG
+Foreskin keratinocyte (neonatal),drug2gene,PDGFRA
+Foreskin keratinocyte (neonatal),drug2gene,TGFBR2
+Foreskin keratinocyte (neonatal),drug2gene,TGFB1
+Foreskin keratinocyte (neonatal),drug2gene,TNF
+Foreskin keratinocyte (neonatal),drug2gene,VEGFA
+Trolamine salicylate,drug2gene,PTGS1
+Trolamine salicylate,drug2gene,PTGS2
+Calcium citrate,drug2gene,CASR
+Castor oil,drug2gene,PTGER3
+Racepinephrine,drug2gene,ADRA1A
+Racepinephrine,drug2gene,ADRA1B
+Racepinephrine,drug2gene,ADRA2A
+Racepinephrine,drug2gene,ADRA2B
+Racepinephrine,drug2gene,ADRA2C
+Racepinephrine,drug2gene,ADRB1
+Racepinephrine,drug2gene,ADRB2
+Racepinephrine,drug2gene,ADRA1D
+Racepinephrine,drug2gene,ADRB3
+Opium,drug2gene,OPRD1
+Opium,drug2gene,OPRK1
+Opium,drug2gene,OPRM1
+Capsicum oleoresin,drug2gene,TRPV1
+Omega-3 fatty acids,drug2gene,PPARG
+Butamben,drug2gene,CACNG1
+Butamben,drug2gene,KCNJ1
+Anthralin,drug2gene,KRT2
+Anthralin,drug2gene,KRT12
+Antithrombin Alfa,drug2gene,F2
+Antithrombin Alfa,drug2gene,F10
+Homatropine,drug2gene,CHRM1
+Homatropine,drug2gene,CHRM2
+Homatropine,drug2gene,CHRM3
+Homatropine,drug2gene,CHRM4
+Homatropine,drug2gene,CHRM5
+Pentoxyverine,drug2gene,SIGMAR1
+Menthyl salicylate,drug2gene,PTGS1
+Menthyl salicylate,drug2gene,PTGS2
+Arbutin,drug2gene,TYR
+Thonzylamine,drug2gene,HRH1
+Dihydroergocornine,drug2gene,HTR1A
+Dihydroergocornine,drug2gene,ADRB1
+Dihydroergocornine,drug2gene,ADRA1A
+Dihydro-alpha-ergocryptine,drug2gene,DRD2
+Dihydro-alpha-ergocryptine,drug2gene,DRD1
+Dihydro-alpha-ergocryptine,drug2gene,DRD3
+Epicriptine,drug2gene,DRD1
+DL-Methylephedrine,drug2gene,ADRB1
+DL-Methylephedrine,drug2gene,ADRA2A
+DL-Methylephedrine,drug2gene,ADRA1A
+Thrombin,drug2gene,F11
+Thrombin,drug2gene,F13A1
+Thrombin,drug2gene,F13B
+Thrombin,drug2gene,FGA
+Thrombin,drug2gene,FGB
+Thrombin,drug2gene,FGG
+Thrombin,drug2gene,F5
+Thrombin,drug2gene,F8
+Prothrombin,drug2gene,FGA
+Prothrombin,drug2gene,FGB
+Prothrombin,drug2gene,F13A1
+Prothrombin,drug2gene,CPB2
+Protein C,drug2gene,F5
+Protein C,drug2gene,F8
+Glycol salicylate,drug2gene,PTGS1
+Glycol salicylate,drug2gene,PTGS2
+Nonivamide,drug2gene,TRPV1
+Tetradecyl hydrogen sulfate (ester),drug2gene,PROCR
+(S)-camphor,drug2gene,TRPV1
+(S)-camphor,drug2gene,TRPV3
+(S)-camphor,drug2gene,TRPA1
+(S)-camphor,drug2gene,TRPM8
+Calcium Phosphate,drug2gene,CASR
+Selexipag,drug2gene,PTGIR
+Alectinib,drug2gene,ALK
+Sennosides,drug2gene,AQP3
+Luprostiol,drug2gene,AR
+Xylazine,drug2gene,ADRA2A
+Lesinurad,drug2gene,SLC22A12
+Lesinurad,drug2gene,SLC22A11
+Insulin argine,drug2gene,INSR
+Insulin tregopil,drug2gene,INSR
+Ixekizumab,drug2gene,IL17A
+Human thrombin,drug2gene,F5
+Human thrombin,drug2gene,F8
+Human thrombin,drug2gene,F11
+Human thrombin,drug2gene,F13A1
+Human thrombin,drug2gene,F13B
+Human thrombin,drug2gene,FGA
+Human thrombin,drug2gene,FGB
+Human thrombin,drug2gene,FGG
+Thrombin alfa,drug2gene,F5
+Thrombin alfa,drug2gene,F8
+Thrombin alfa,drug2gene,FGA
+Thrombin alfa,drug2gene,FGB
+Thrombin alfa,drug2gene,FGG
+Ravulizumab,drug2gene,C5
+Venetoclax,drug2gene,BCL2
+Thiocolchicoside,drug2gene,GABRA1
+Etafedrine,drug2gene,ADRB2
+Carbon monoxide,drug2gene,MB
+Bilastine,drug2gene,HRH1
+Atezolizumab,drug2gene,CD274
+Atezolizumab,drug2gene,PDCD1
+Human Rho(D) immune globulin,drug2gene,RHD
+Tuberculin purified protein derivative,drug2gene,TLR2
+Susoctocog alfa,drug2gene,VWF
+Efmoroctocog alfa,drug2gene,VWF
+Lifitegrast,drug2gene,ITGAL
+Rupatadine,drug2gene,PTAFR
+Rupatadine,drug2gene,HRH1
+Candoxatrilat,drug2gene,MME
+Tasonermin,drug2gene,TNFRSF1A
+Opicapone,drug2gene,COMT
+Dibotermin alfa,drug2gene,BMPR2
+Dibotermin alfa,drug2gene,BMPR1A
+Amifampridine,drug2gene,KCNA1
+Vinflunine,drug2gene,TUBB
+Pitolisant,drug2gene,HRH3
+Tafamidis,drug2gene,TTR
+Tucatinib,drug2gene,ERBB2
+Latanoprostene bunod,drug2gene,PTGFR
+Daprodustat,drug2gene,EGLN1
+Daprodustat,drug2gene,EGLN2
+Daprodustat,drug2gene,EGLN3
+Selumetinib,drug2gene,MAP2K1
+Selumetinib,drug2gene,MAP2K2
+Naldemedine,drug2gene,OPRM1
+Naldemedine,drug2gene,OPRD1
+Naldemedine,drug2gene,OPRK1
+Pavinetant,drug2gene,TACR3
+Voclosporin,drug2gene,CAMLG
+Voclosporin,drug2gene,PPP3R1
+Voclosporin,drug2gene,PPP3R2
+Pacritinib,drug2gene,JAK2
+Pacritinib,drug2gene,FLT3
+Tropisetron,drug2gene,HTR3A
+Setmelanotide,drug2gene,MC4R
+Acalabrutinib,drug2gene,BTK
+Tezacaftor,drug2gene,CFTR
+Durvalumab,drug2gene,CD274
+Encorafenib,drug2gene,BRAF
+Encorafenib,drug2gene,CCND1
+Encenicline,drug2gene,CHRNA7
+Ribociclib,drug2gene,CDK4
+Ribociclib,drug2gene,CDK6
+Depatuxizumab mafodotin,drug2gene,TUBB
+Lasmiditan,drug2gene,HTR1F
+Vonoprazan,drug2gene,ATP4A
+MK-1775,drug2gene,WEE1
+Tetrahydrocannabivarin,drug2gene,CNR1
+Tetrahydrocannabivarin,drug2gene,GPR55
+Tetrahydrocannabivarin,drug2gene,HTR1A
+Tetrahydrocannabivarin,drug2gene,TRPV2
+Tetrahydrocannabivarin,drug2gene,TRPM8
+Tetrahydrocannabivarin,drug2gene,TRPA1
+Istradefylline,drug2gene,ADORA2A
+Talazoparib,drug2gene,PARP1
+Talazoparib,drug2gene,PARP2
+Tenapanor,drug2gene,SLC9A3
+Sarilumab,drug2gene,IL6R
+Tremelimumab,drug2gene,CTLA4
+Capmatinib,drug2gene,MET
+Niraparib,drug2gene,PARP1
+Niraparib,drug2gene,PARP2
+Tivozanib,drug2gene,FLT1
+Tivozanib,drug2gene,KDR
+Tivozanib,drug2gene,FLT4
+Tivozanib,drug2gene,KIT
+Tivozanib,drug2gene,PDGFRB
+Baricitinib,drug2gene,JAK1
+Baricitinib,drug2gene,JAK2
+Baricitinib,drug2gene,JAK3
+Ertugliflozin,drug2gene,SLC5A2
+Neratinib,drug2gene,EGFR
+Guselkumab,drug2gene,IL23A
+Osilodrostat,drug2gene,CYP11B1
+Dalotuzumab,drug2gene,IGF1R
+Entinostat,drug2gene,HDAC1
+Ublituximab,drug2gene,MS4A1
+Relugolix,drug2gene,GNRHR
+Revefenacin,drug2gene,CHRM1
+Ligelizumab,drug2gene,IGHE
+Brexanolone,drug2gene,GABRA1
+Romosozumab,drug2gene,SOST
+Infigratinib,drug2gene,FGFR1
+Infigratinib,drug2gene,FGFR2
+Infigratinib,drug2gene,FGFR3
+Infigratinib,drug2gene,FGFR4
+Apalutamide,drug2gene,AR
+Valbenazine,drug2gene,VMAT2
+Vosoritide,drug2gene,NPR2
+Bempedoic acid,drug2gene,ACLY
+Difelikefalin,drug2gene,OPRK1
+Selinexor,drug2gene,XPO1
+Avelumab,drug2gene,CD274
+Avelumab,drug2gene,PDCD1
+Lemborexant,drug2gene,HCRTR1
+Lemborexant,drug2gene,HCRTR2
+Duvelisib,drug2gene,PIK3CG
+Duvelisib,drug2gene,PIK3CD
+GSK-1059615,drug2gene,MTOR
+GSK-1059615,drug2gene,PIK3C3
+Dacomitinib,drug2gene,EGFR
+Binimetinib,drug2gene,MAP3K1
+Binimetinib,drug2gene,MAP2K2
+Anifrolumab,drug2gene,IFNAR1
+Glasdegib,drug2gene,SMO
+Entrectinib,drug2gene,NTRK1
+Entrectinib,drug2gene,NTRK3
+Entrectinib,drug2gene,ROS1
+Ocrelizumab,drug2gene,MS4A1
+Avatrombopag,drug2gene,MPL
+Abemaciclib,drug2gene,CDK4
+Abemaciclib,drug2gene,CDK6
+Fostamatinib,drug2gene,SYK
+Alpelisib,drug2gene,PIK3CA
+Ponesimod,drug2gene,S1PR1
+Ulocuplumab,drug2gene,CXCR4
+Benralizumab,drug2gene,IL5RA
+Benralizumab,drug2gene,FCGR3A
+Gantenerumab,drug2gene,APP
+Telotristat ethyl,drug2gene,TPH2
+Telotristat ethyl,drug2gene,TPH1
+Tideglusib,drug2gene,GSK3B
+Lorlatinib,drug2gene,ALK
+Gilteritinib,drug2gene,FLT3
+Gilteritinib,drug2gene,AXL
+Gilteritinib,drug2gene,ALK
+Erdafitinib,drug2gene,FGFR1
+Erdafitinib,drug2gene,FGFR2
+Erdafitinib,drug2gene,FGFR3
+Erdafitinib,drug2gene,FGFR4
+Fasinumab,drug2gene,NGF
+Dupilumab,drug2gene,IL4R
+Dupilumab,drug2gene,IL13
+Dupilumab,drug2gene,IL4
+Deutetrabenazine,drug2gene,SLC18A2
+Tralokinumab,drug2gene,IL13
+Etrolizumab,drug2gene,ITGB7
+Zalutumumab,drug2gene,EGFR
+Polatuzumab vedotin,drug2gene,CD79B
+Vadadustat,drug2gene,EGLN1
+Vadadustat,drug2gene,EGLN2
+Vadadustat,drug2gene,EGLN3
+Brigatinib,drug2gene,ALK
+Brigatinib,drug2gene,EGFR
+Propiverine,drug2gene,CHRM1
+Propiverine,drug2gene,CHRM2
+Propiverine,drug2gene,CHRM3
+Propiverine,drug2gene,CHRM5
+Propiverine,drug2gene,CACNA1C
+Propiverine,drug2gene,ADRA1A
+Verubecestat,drug2gene,BACE1
+Radotinib,drug2gene,ABL1
+Rucaparib,drug2gene,PARP1
+Rucaparib,drug2gene,PARP2
+Rucaparib,drug2gene,PARP3
+Navitoclax,drug2gene,BCL2
+Betrixaban,drug2gene,F10
+Remimazolam,drug2gene,GABRA1
+Alvespimycin,drug2gene,HSP90AA1
+Rimegepant,drug2gene,CALCRL
+Copanlisib,drug2gene,PIK3CA
+Copanlisib,drug2gene,PIK3CD
+Mirvetuximab soravtansine,drug2gene,FOLR1
+Mogamulizumab,drug2gene,CCR4
+Clascoterone,drug2gene,AR
+Fedratinib,drug2gene,JAK2
+Fedratinib,drug2gene,FLT3
+Inebilizumab,drug2gene,CD19
+Oxetacaine,drug2gene,GAST
+Samidorphan,drug2gene,OPRM1
+JNJ-37822681,drug2gene,DRD2
+Asciminib,drug2gene,ABL1
+Nafamostat,drug2gene,F2
+Nafamostat,drug2gene,F10
+Nafamostat,drug2gene,F12
+Nafamostat,drug2gene,PRSS1
+Nafamostat,drug2gene,KLK1
+Ozanimod,drug2gene,S1PR1
+Ozanimod,drug2gene,S1PR5
+Moxetumomab pasudotox,drug2gene,CD22
+Moxetumomab pasudotox,drug2gene,EEF2
+Sotagliflozin,drug2gene,SLC5A2
+Sotagliflozin,drug2gene,SLC5A1
+DTP-348,drug2gene,CA9
+TAK-901,drug2gene,AURKB
+Opaganib,drug2gene,SPHK2
+Benserazide,drug2gene,DDC
+Trifarotene,drug2gene,RARG
+Gabexate,drug2gene,KLKB1
+Gabexate,drug2gene,F2
+Gabexate,drug2gene,PLG
+Grapiprant,drug2gene,PTGER4
+Etelcalcetide,drug2gene,CASR
+Vonicog alfa,drug2gene,F8
+Vonicog alfa,drug2gene,COL1A1
+Tazemetostat,drug2gene,EZH2
+Sacituzumab govitecan,drug2gene,TACSTD2
+Sacituzumab govitecan,drug2gene,TOP1
+Bimekizumab,drug2gene,IL17A
+Bimekizumab,drug2gene,IL17F
+Darolutamide,drug2gene,AR
+Pexidartinib,drug2gene,CSF1R
+Carbendazim,drug2gene,AHR
+Tiapride,drug2gene,DRD2
+Tiapride,drug2gene,DRD3
+Tiapride,drug2gene,HTR1A
+Tiapride,drug2gene,ADRA1A
+Tiapride,drug2gene,ADRA2A
+PAC-1,drug2gene,CASP3
+OTX-008,drug2gene,LGALS1
+Lusutrombopag,drug2gene,MPL
+Olokizumab,drug2gene,IL6
+Von Willebrand factor human,drug2gene,F8
+Von Willebrand factor human,drug2gene,COL1A1
+Levosalbutamol,drug2gene,ADRB2
+Lenograstim,drug2gene,CSF3R
+Fluciclovine (18F),drug2gene,SLC1A5
+Fluciclovine (18F),drug2gene,SLC7A7
+Fluciclovine (18F),drug2gene,SLC7A3
+Protein S human,drug2gene,F5
+Protein S human,drug2gene,F10
+Protein S human,drug2gene,PROC
+Coagulation factor VII human,drug2gene,F3
+Coagulation factor VII human,drug2gene,F10
+Coagulation factor VII human,drug2gene,F9
+Anti-inhibitor coagulant complex,drug2gene,F10
+Anti-inhibitor coagulant complex,drug2gene,F2
+Anti-inhibitor coagulant complex,drug2gene,FGA
+Anti-inhibitor coagulant complex,drug2gene,FGB
+Anti-inhibitor coagulant complex,drug2gene,F13A1
+Anti-inhibitor coagulant complex,drug2gene,F5
+Anti-inhibitor coagulant complex,drug2gene,F8
+Anti-inhibitor coagulant complex,drug2gene,F7
+Coagulation Factor IX Human,drug2gene,F10
+Coagulation Factor IX Human,drug2gene,F11
+Coagulation Factor IX Human,drug2gene,F7
+Coagulation Factor IX Human,drug2gene,F8
+Clobetasone,drug2gene,NR3C1
+Nusinersen,drug2gene,SMN2
+Olmutinib,drug2gene,EGFR
+Zofenopril,drug2gene,ACE
+Alclofenac,drug2gene,PTGS2
+Plecanatide,drug2gene,GUCY1A2
+Phosphocreatine,drug2gene,GAMT
+Phosphocreatine,drug2gene,SLC6A8
+Phosphocreatine,drug2gene,CKM
+Phosphocreatine,drug2gene,CKMT1A
+Phosphocreatine,drug2gene,CKMT2
+Phosphocreatine,drug2gene,CKB
+Antihemophilic factor human,drug2gene,F9
+Antihemophilic factor human,drug2gene,F10
+Lipegfilgrastim,drug2gene,CSF3R
+Ferrous sulfate anhydrous,drug2gene,HBA1
+Ferrous sulfate anhydrous,drug2gene,TFRC
+Dichlorobenzyl alcohol,drug2gene,SCN1A
+Pinazepam,drug2gene,GABRA1
+Dihydroergocristine,drug2gene,HTR1A
+Dihydroergocristine,drug2gene,ADRB1
+Dihydroergocristine,drug2gene,ADRA1A
+Dihydroergocristine,drug2gene,DRD1
+Bufexamac,drug2gene,PTGS1
+Bufexamac,drug2gene,PTGS2
+Medazepam,drug2gene,GABRA1
+Rociverine,drug2gene,CHRM1
+Rociverine,drug2gene,CHRM2
+Rociverine,drug2gene,CHRM3
+Rociverine,drug2gene,CHRM4
+Rociverine,drug2gene,CHRM5
+Mifamurtide,drug2gene,TLR4
+Mifamurtide,drug2gene,NOD2
+Loprazolam,drug2gene,GABRA1
+Diphemanil,drug2gene,CHRM3
+Glycyrrhizic acid,drug2gene,HSD11B1
+Glycyrrhizic acid,drug2gene,TNF
+Glycyrrhizic acid,drug2gene,CASP3
+Glycyrrhizic acid,drug2gene,NFKB2
+Glycyrrhizic acid,drug2gene,LPL
+Xamoterol,drug2gene,ADRB1
+Acemetacin,drug2gene,PTGS1
+Acemetacin,drug2gene,PTGS2
+Doxefazepam,drug2gene,GABRA1
+Demegestone,drug2gene,PGR
+Fluticasone,drug2gene,NR3C1
+Lormetazepam,drug2gene,GABRA1
+Fenofibric acid,drug2gene,PPARA
+Enasidenib,drug2gene,IDH2
+Tisagenlecleucel,drug2gene,CD19
+Albutrepenonacog alfa,drug2gene,F10
+Crotalus adamanteus antivenin,drug2gene,PLA2G10
+Agkistrodon piscivorus antivenin,drug2gene,PLA2G10
+Volixibat,drug2gene,SLC10A2
+Axicabtagene ciloleucel,drug2gene,CD19
+Candesartan,drug2gene,AGTR1
+Emicizumab,drug2gene,F9
+Emicizumab,drug2gene,F10
+Dotatate gallium Ga-68,drug2gene,SSTR2
+Semaglutide,drug2gene,GLP1R
+Netarsudil,drug2gene,ROCK1
+Netarsudil,drug2gene,ROCK2
+Netarsudil,drug2gene,SLC6A2
+Voretigene neparvovec,drug2gene,RPE65
+Nonacog beta pegol,drug2gene,F7
+Nonacog beta pegol,drug2gene,F8
+Nonacog beta pegol,drug2gene,F10
+Testosterone cypionate,drug2gene,AR
+Testosterone enanthate,drug2gene,AR
+Testosterone undecanoate,drug2gene,AR
+Ferric cation,drug2gene,TFRC
+Estradiol acetate,drug2gene,ESR1
+Estradiol acetate,drug2gene,ESR2
+Estradiol benzoate,drug2gene,ESR1
+Estradiol benzoate,drug2gene,ESR2
+Estradiol cypionate,drug2gene,ESR1
+Estradiol cypionate,drug2gene,ESR2
+Estradiol dienanthate,drug2gene,ESR1
+Estradiol dienanthate,drug2gene,ESR2
+Estradiol valerate,drug2gene,ESR1
+Estradiol valerate,drug2gene,ESR2
+Fish oil,drug2gene,DGAT2
+Fish oil,drug2gene,PTGS2
+Fish oil,drug2gene,FFAR4
+Patent Blue,drug2gene,ALB
+Lutetium Lu 177 dotatate,drug2gene,SSTR2
+Lutetium Lu 177 dotatate,drug2gene,SSTR1
+Lutetium Lu 177 dotatate,drug2gene,SSTR3
+Lutetium Lu 177 dotatate,drug2gene,SSTR4
+Lutetium Lu 177 dotatate,drug2gene,SSTR5
+AZD-7325,drug2gene,GABRA3
+AZD-7325,drug2gene,GABRA2
+Ferric pyrophosphate citrate,drug2gene,FTL
+Ferric pyrophosphate citrate,drug2gene,FTH1
+Ferric pyrophosphate citrate,drug2gene,HBA1
+Ferric pyrophosphate citrate,drug2gene,HBB
+Lonoctocog alfa,drug2gene,F10
+Lonoctocog alfa,drug2gene,F9
+Lonoctocog alfa,drug2gene,VWF
+Moroctocog alfa,drug2gene,F10
+Moroctocog alfa,drug2gene,F9
+Moroctocog alfa,drug2gene,VWF
+Tildrakizumab,drug2gene,IL12B
+Medical Cannabis,drug2gene,CNR1
+Nabiximols,drug2gene,CNR1
+Nabiximols,drug2gene,CNR2
+Burosumab,drug2gene,FGF23
+H3B-8800,drug2gene,SF3B1
+Fosnetupitant,drug2gene,TACR1
+Taspoglutide,drug2gene,GLP1R
+Nordazepam,drug2gene,GABRA1
+Eptinezumab,drug2gene,CALCA
+Eptinezumab,drug2gene,CALCB
+Fremanezumab,drug2gene,CALCA
+Fremanezumab,drug2gene,CALCB
+Galcanezumab,drug2gene,CALCA
+Galcanezumab,drug2gene,CALCB
+Cannabidivarin,drug2gene,TRPV1
+Cannabidivarin,drug2gene,TRPV2
+Cannabidivarin,drug2gene,TRPA1
+SC-236,drug2gene,NFKB2
+Hycanthone,drug2gene,ABCB1
+Concanamycin A,drug2gene,ABCB1
+Dexverapamil,drug2gene,ABCB1
+Emopamil,drug2gene,ABCB1
+Lomerizine,drug2gene,ABCB1
+ONT-093,drug2gene,ABCB1
+HM-30181,drug2gene,ABCB1
+Reversin 121,drug2gene,ABCB1
+8-chlorotheophylline,drug2gene,ADORA2A
+Loxicodegol,drug2gene,OPRM1
+Aripiprazole lauroxil,drug2gene,DRD2
+Aripiprazole lauroxil,drug2gene,HTR1A
+Aripiprazole lauroxil,drug2gene,HTR2A
+Calcium phosphate dihydrate,drug2gene,CASR
+Mometasone furoate,drug2gene,NR3C1
+Tetraferric tricitrate decahydrate,drug2gene,TFRC
+Hydrocortisone aceponate,drug2gene,ANXA1
+Hydrocortisone aceponate,drug2gene,NR3C1
+Hydrocortisone acetate,drug2gene,ANXA1
+Hydrocortisone acetate,drug2gene,NR3C1
+Hydrocortisone butyrate,drug2gene,ANXA1
+Hydrocortisone butyrate,drug2gene,NR3C1
+Hydrocortisone cypionate,drug2gene,ANXA1
+Hydrocortisone cypionate,drug2gene,NR3C1
+Hydrocortisone phosphate,drug2gene,ANXA1
+Hydrocortisone phosphate,drug2gene,NR3C1
+Hydrocortisone probutate,drug2gene,ANXA1
+Hydrocortisone probutate,drug2gene,NR3C1
+Hydrocortisone valerate,drug2gene,ANXA1
+Hydrocortisone valerate,drug2gene,NR3C1
+Andexanet alfa,drug2gene,TFPI
+Ivosidenib,drug2gene,IDH1
+Eslicarbazepine,drug2gene,P2RX4
+CPI-1205,drug2gene,EZH2
+Segesterone acetate,drug2gene,PGR
+Lanadelumab,drug2gene,KLKB1
+Boldenone undecylenate,drug2gene,AR
+Estriol tripropionate,drug2gene,ESR1
+Lypressin,drug2gene,AVPR1A
+Lypressin,drug2gene,AVPR2
+Lypressin,drug2gene,AVPR1B
+Dexamethasone acetate,drug2gene,NR3C1
+Oxazepam acetate,drug2gene,GABRA1
+Damoctocog alfa pegol,drug2gene,F8
+Cemiplimab,drug2gene,PDCD1
+Cinazepam,drug2gene,GABRA1
+Bentazepam,drug2gene,GABRA1
+Larotrectinib,drug2gene,NTRK1
+Larotrectinib,drug2gene,NTRK2
+Larotrectinib,drug2gene,NTRK3
+Emapalumab,drug2gene,IFNG
+Tagraxofusp,drug2gene,IL3RA
+Turoctocog alfa pegol,drug2gene,F9
+Turoctocog alfa pegol,drug2gene,F10
+Turoctocog alfa pegol,drug2gene,F2
+Turoctocog alfa pegol,drug2gene,VWF
+Mecasermin rinfabate,drug2gene,IGF1R
+Risankizumab,drug2gene,IL12B
+Piflufolastat F 18,drug2gene,FOLH1
+Ripretinib,drug2gene,KIT
+Ripretinib,drug2gene,PDGFRB
+Ripretinib,drug2gene,TEK
+Ripretinib,drug2gene,KDR
+Ripretinib,drug2gene,BRAF
+Ripretinib,drug2gene,PDGFRA
+Filgotinib,drug2gene,JAK1
+Relatlimab,drug2gene,LAG3
+Brolucizumab,drug2gene,VEGFA
+Oliceridine,drug2gene,OPRM1
+Vibegron,drug2gene,ADRB3
+Inclisiran,drug2gene,PCSK9
+Flortaucipir F-18,drug2gene,MAPT
+Mavacamten,drug2gene,MYH7
+Trastuzumab deruxtecan,drug2gene,FCGR1A
+Trastuzumab deruxtecan,drug2gene,TOP1
+Margetuximab,drug2gene,ERBB2
+Abrocitinib,drug2gene,JAK1
+Voxelotor,drug2gene,HBA1
+Umbralisib,drug2gene,CSNK1E
+Umbralisib,drug2gene,PIK3CD
+Sutimlimab,drug2gene,C1S
+Human interferon beta,drug2gene,IFNAR1
+Eflapegrastim,drug2gene,CSF3R
+Avacopan,drug2gene,C5AR1
+Daridorexant,drug2gene,HCRTR1
+Daridorexant,drug2gene,HCRTR2
+Zanubrutinib,drug2gene,BTK
+Volanesorsen,drug2gene,APOC3
+Omidenepag isopropyl,drug2gene,PTGER2
+Tezepelumab,drug2gene,TSLP
+Upadacitinib,drug2gene,JAK1
+Cusatuzumab,drug2gene,CD70
+Pemigatinib,drug2gene,FGFR1
+Pemigatinib,drug2gene,FGFR2
+Pemigatinib,drug2gene,FGFR3
+Ropeginterferon alfa-2b,drug2gene,IFNAR1
+Tepotinib,drug2gene,MET
+Futibatinib,drug2gene,FGFR1
+Futibatinib,drug2gene,FGFR2
+Futibatinib,drug2gene,FGFR3
+Futibatinib,drug2gene,FGFR4
+Tirzepatide,drug2gene,GLP1R
+Tirzepatide,drug2gene,GIP
+Dasiglucagon,drug2gene,GCGR
+Bulevirtide,drug2gene,SLC10A1
+Imlifidase,drug2gene,IGHG1
+Efgartigimod alfa,drug2gene,FCGRT
+Crizanlizumab,drug2gene,SELP
+Tebentafusp,drug2gene,PMEL
+Faricimab,drug2gene,VEGFA
+Faricimab,drug2gene,ANGPT2
+Abivertinib,drug2gene,EGFR
+Abivertinib,drug2gene,BTK
+Ubrogepant,drug2gene,CALCRL
+Evinacumab,drug2gene,ANGPTL3
+Pafolacianine,drug2gene,FOLR1
+Mosunetuzumab,drug2gene,MS4A1
+Mosunetuzumab,drug2gene,CD3E
+Trilaciclib,drug2gene,CDK4
+Trilaciclib,drug2gene,CDK6
+Elexacaftor,drug2gene,CFTR
+Vericiguat,drug2gene,GUCY1B1
+Belzutifan,drug2gene,EPAS1
+Mexazolam,drug2gene,GABRA1
+Cambinol,drug2gene,SIRT1
+Cambinol,drug2gene,SIRT2
+Edotreotide gallium Ga-68,drug2gene,SSTR2
+Edotreotide gallium Ga-68,drug2gene,SSTR5
+Edotreotide gallium Ga-68,drug2gene,SSTR3
+Edotreotide gallium Ga-68,drug2gene,SSTR1
+Rocaglamide,drug2gene,PHB
+Rocaglamide,drug2gene,PHB2
+Didesmethylrocaglamide,drug2gene,PHB
+Didesmethylrocaglamide,drug2gene,PHB2
+BOS172722,drug2gene,TTK
+Cilazaprilat,drug2gene,ACE
+Prednisolone acetate,drug2gene,NR3C1
+Adagrasib,drug2gene,KRAS
+Sotorasib,drug2gene,KRAS
+Golodirsen,drug2gene,DMD
+Spesolimab,drug2gene,IL1RL2
+Dostarlimab,drug2gene,PDCD1
+Omburtamab,drug2gene,CD276
+Selpercatinib,drug2gene,RET
+Zavegepant,drug2gene,CALCRL
+Cedazuridine,drug2gene,CDA
+Brexucabtagene autoleucel,drug2gene,CD19
+Satralizumab,drug2gene,IL6R
+Pralsetinib,drug2gene,RET
+Copper oxodotreotide Cu-64,drug2gene,SSTR2
+Lumasiran,drug2gene,HAO1
+Berotralstat,drug2gene,KLKB1
+Rurioctocog alfa pegol,drug2gene,VWF
+Gallium Ga-68 gozetotide,drug2gene,KLK3
+Atogepant,drug2gene,CALCRL
+Finerenone,drug2gene,NR3C2
+Lonapegsomatropin,drug2gene,GHR
+Lonapegsomatropin,drug2gene,PRLR
+Maralixibat,drug2gene,SLC10A2
+Mitapivat,drug2gene,PKLR
+Nidufexor,drug2gene,NR1H4
+Odevixibat,drug2gene,SLC10A2
+Olinvacimab,drug2gene,KDR
+Olodanrigan,drug2gene,AGTR2
+Olutasidenib,drug2gene,IDH1
+Revusiran,drug2gene,TTR
+Rivenprost,drug2gene,PTGER4
+Rivenprost,drug2gene,PTGER1
+Selgantolimod,drug2gene,TLR8
+Tilsotolimod,drug2gene,TLR9
+Veliflapon,drug2gene,ALOX5AP
+Razuprotafib,drug2gene,PTPRB
+Mezagitamab,drug2gene,CD38
+Garetosmab,drug2gene,INHBA
+Mobocertinib,drug2gene,EGFR
+Narsoplimab,drug2gene,MASP2
+ATYR1923,drug2gene,NRP2
+Afimetoran,drug2gene,TLR7
+Afimetoran,drug2gene,TLR8
+Fosdenopterin,drug2gene,MOCS2
+Serdexmethylphenidate,drug2gene,SLC6A3
+Serdexmethylphenidate,drug2gene,SLC6A2
+Almonertinib,drug2gene,EGFR
+Deucravacitinib,drug2gene,TYK2
+Teclistamab,drug2gene,CD3D
+Teclistamab,drug2gene,TNFRSF17
+Idecabtagene vicleucel,drug2gene,TNFRSF17
+Odronextamab,drug2gene,MS4A1
+Odronextamab,drug2gene,CD3D
+Tegoprazan,drug2gene,ATP1A1
+Pegcetacoplan,drug2gene,C3
+Amivantamab,drug2gene,EGFR
+Amivantamab,drug2gene,MET
+Amivantamab,drug2gene,FCGR3A
+Belumosudil,drug2gene,ROCK2
+Belumosudil,drug2gene,ROCK1
+Tisotumab vedotin,drug2gene,F3
+Rimtuzalcap,drug2gene,KCNN1
+Rimtuzalcap,drug2gene,KCNN2
+Ciltacabtagene autoleucel,drug2gene,TNFRSF17
+Prolgolimab,drug2gene,PDCD1
+Ivarmacitinib,drug2gene,JAK1
+Lutetium Lu-177 vipivotide tetraxetan,drug2gene,KLK3
+Letibotulinumtoxina,drug2gene,SNAP25
+Betibeglogene autotemcel,drug2gene,null
+KW-6356,drug2gene,ADORA2A
+Linzagolix,drug2gene,GNRHR
+JNJ-17216498,drug2gene,HRH3
