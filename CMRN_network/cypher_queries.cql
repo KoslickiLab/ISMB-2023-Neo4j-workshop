@@ -52,7 +52,13 @@ RETURN * LIMIT 25
 
 // Which co-expression clusters are regulated by miR-29abc and that regulate the same hallmark?
 MATCH (miRNA)-[:miRNA2cluster]->(cluster1)-[:cluster2hallmark]->(hallmark)<-[:cluster2hallmark]-(cluster2)<-[:miRNA2cluster]-(miRNA)
-WHERE miRNA.name=~'miR-29a'
+WHERE miRNA.name=~'miR-29[a-c]'
+RETURN *
+
+// Which miRNAs regulate co-expression clusters associated with the hallmark Tissue Invasion and Metastasis?
+MATCH (miRNA)-[:miRNA2cluster]->(cluster)-[:cluster2hallmark]->(hallmark)
+WHERE hallmark.name='Tissue Invasion And Metastasis'
+AND cluster.name=~'.*_Lung_.*'
 RETURN *
 
 
@@ -60,12 +66,42 @@ RETURN *
 // Combining cancer miRNA regulatory network with drug repurposing
 //
 
-// Which miRNAs can be paired with KRAS mutation to induce synthetic lethality?
-MATCH (mutation)-[:MUTSL]->(gene)<-[:cluster2gene]-(cluster)<-[:miRNA2cluster]-(miRNA), (cluster)-[:cluster2hallmark]->(hallmark)
-WHERE mutation.name= 'KRAS'
+// What are the main functional targets of sunitinib?
+MATCH (hallmark)<-[:cluster2hallmark]-(cluster1)-
+[cluster2gene]->(gene)<-[drug2gene]-(drug)
+WHERE drug.name=~'Sunitinib'
 RETURN *
 
-// Which miRNAs can be paired with Tamoxifen to increase efficacy and reduce toxicity?
-MATCH (miRNA)-[miRNA2cluster]->(cluster)-[cluster2gene]->(gene)<-[drug2gene]-(drug)
-WHERE drug.name=~'Sorafenib'
+// Which miRNAs also target genes inhibited by sunitinib?
+MATCH (miRNA)-[miRNA2cluster]->(cluster1)-
+[cluster2gene]->(gene)<-[drug2gene]-(drug)
+WHERE drug.name=~'Sunitinib'
 RETURN *
+
+// Which miRNAs also target genes inhibited by sunitinib and are associated with sustained angiogenesis?
+MATCH (miRNA)-[miRNA2cluster]->(cluster1)-
+[cluster2gene]->(gene)<-[drug2gene]-(drug),
+(cluster2)-[:cluster2hallmark]->(hallmark)
+WHERE drug.name=~'Sunitinib' AND
+cluster1.name=cluster2.name AND
+hallmark.name='Sustained Angiogenesis'
+RETURN *
+
+
+//
+// Shortest path
+//
+
+// How does sunitinib affect sustained angiogensis?
+MATCH (hm1:hallmark { name:'Sustained Angiogenesis'}),
+(drug1:drug { name:'Sunitinib' }),
+p = allShortestPaths((hm1)-[*..4]-(drug1))
+RETURN *
+
+// How does sunitinib affect tissue invasion and metastasis?
+MATCH (hm1:hallmark { name:'Tissue Invasion And Metastasis'}),
+(drug1:drug { name:'Sunitinib' }),
+p = allShortestPaths((hm1)-[*..4]-(drug1))
+RETURN *
+
+
