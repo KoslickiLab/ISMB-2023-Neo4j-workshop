@@ -30,7 +30,7 @@ MERGE (h:hallmark {name: line[2]})
 MERGE (c)-[r:cluster2hallmark]-(h)
 
 // drug->gene
-LOAD CSV FROM "https://drive.google.com/uc?export=download&id=16zzIlzsrRdFPuwkYVptwOeZB_JFJptFC" AS line
+LOAD CSV FROM "https://drive.google.com/uc?export=download&id=1vqXcJ_h1TXOD9xMLwtCi9Idy9WPX-3G9" AS line
 MERGE (d:drug {name: line[0]})
 MERGE (g:gene {name: line[2]})
 MERGE (d)-[r:drug2gene]-(g)
